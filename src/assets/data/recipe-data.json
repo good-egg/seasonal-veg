@@ -1,0 +1,3247 @@
+{
+  "artichoke": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/scallops_and_artichoke_20977",
+      "title": "Roast scallops with artichoke soup",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/partridge_with_jerusalem_01583",
+      "title": "Partridge with Jerusalem artichoke purée, caramelised apple and chicken sauce",
+      "author": "by Kenny Atkinson",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/grilled_black_truffle_17482",
+      "title": "Jerusalem artichoke and black truffle risotto",
+      "author": "by Andi Oliver",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/jerusalem_artichoke_soup_78921",
+      "title": "Jerusalem artichoke soup served with a game burger and Jerusalem crisps",
+      "author": "by Tom Kitchin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/brown_shrimp_and_61489",
+      "title": "Brown shrimp and artichoke tagliatelle",
+      "author": "by Theo Randall",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "asparagus": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/scallops_and_artichoke_20977",
+      "title": "Roast scallops with artichoke soup",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/partridge_with_jerusalem_01583",
+      "title": "Partridge with Jerusalem artichoke purée, caramelised apple and chicken sauce",
+      "author": "by Kenny Atkinson",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/grilled_black_truffle_17482",
+      "title": "Jerusalem artichoke and black truffle risotto",
+      "author": "by Andi Oliver",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/jerusalem_artichoke_soup_78921",
+      "title": "Jerusalem artichoke soup served with a game burger and Jerusalem crisps",
+      "author": "by Tom Kitchin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/brown_shrimp_and_61489",
+      "title": "Brown shrimp and artichoke tagliatelle",
+      "author": "by Theo Randall",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "aubergine": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/baba_ganoush_grilled_50988",
+      "title": "Baba ganoush, grilled aubergine with lentils and aubergine fritters",
+      "author": "by Matt Tebbutt",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spiced_lentils_and_59706",
+      "title": "Spiced lentils and aubergine toast",
+      "author": "by Matt Tebbutt",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/parmigiana_melanzana_74675",
+      "title": "Parmigiana melanzana",
+      "author": "by Matt Tebbutt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spiced_aubergine_15258",
+      "title": "Spiced aubergine (dahi baingan)",
+      "author": "by Asma Khan",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/redmulletwithspicype_88636",
+      "title": "Red mullet with spicy peppers, chorizo and black olives with candied aubergine",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "beans-broad": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/open_ravioli_with_52448",
+      "title": "Pasta with broad beans, asparagus and fennel",
+      "author": "by Catherine Fulvio",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/broad_bean_hummus_29052",
+      "title": "Broad bean hummus",
+      "author": "by Gary Rhodes",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/broadbeanswithpatane_91729",
+      "title": "Broad beans with jamon Ibérico",
+      "author": "by Valentine Warner",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/turbot_with_broad_beans_38943",
+      "title": "Turbot, with broad beans, courgette and dashi",
+      "author": "by Liam Simpson-Trotman",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cured_grilled_mackerel_89657",
+      "title": "Cured grilled mackerel, cucumber, pickled lemon, broad beans and peas",
+      "author": "by Ashley Palmer Watts",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "beans-other": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/tuna_avocado_and_rocket_90961",
+      "title": "Tuna, avocado and rocket salad with sesame green beans",
+      "author": "by Donal Skehan",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/steamedsalmonwithsti_89175",
+      "title": "Steamed salmon with stir fried green beans and fragrant herb rice",
+      "author": "by James Tanner",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/porkandmushroompiean_87045",
+      "title": "Pork and mushroom pie and Gujarati-style green beans",
+      "author": "by Rachel Allen",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/proscuittowrappedlam_87480",
+      "title": "Prosciutto-wrapped lamb cutlets with green beans and parsnip ribbons",
+      "author": "by Donna Hay",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/tagliatelle_with_green_40430",
+      "title": "Tagliatelle with green beans and pesto",
+      "author": "by Theo Randall",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "beetroot": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/salt-baked_beetroot_with_91916",
+      "title": "Salt-baked beetroot with blue cheese beignets and a rainbow beetroot salad",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/how_to_cook_beetroot_24214",
+      "title": "How to cook beetroot",
+      "author": false,
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 3–4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/breadcrumbedpheasant_87654",
+      "title": "Breadcrumbed pheasant breast with beetroot purée and marinated beetroot",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beetroot_and_chocolate_33061",
+      "title": "Beetroot and chocolate cake",
+      "author": "by Mary Berry",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 12"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pickled_beetroot_43096",
+      "title": "Pickled beetroot",
+      "author": "by Pam Corbin",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes 2 x 500ml/18fl oz jars"
+    }
+  ],
+  "broccoli": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/purplesproutingbrocc_83642",
+      "title": "Purple sprouting broccoli on toast",
+      "author": false,
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/bacon_chops_with_whole_45650",
+      "title": "Bacon chops with whole roasted broccoli and three-cheese sauce",
+      "author": "by Tom Kerridge",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lemon_and_garlic_chicken_64529",
+      "title": "Lemon and garlic chicken thighs with broccoli potato cakes",
+      "author": "by Andi Oliver",
+      "mealType": "RECIPE",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/broccoli_cheese_70907",
+      "title": "Broccoli cheese",
+      "author": "by Izy Hossack",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rump_of_lamb_sprouting_09207",
+      "title": "Rump of lamb with new potatoes and broccoli",
+      "author": "by Nick Deverell-Smith",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "brussel-sprouts": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/membrillo_and_stilton_28987",
+      "title": "Stilton and butternut squash quiche with roast sprouts",
+      "author": "by Yotam Ottolenghi",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/shredded_sprouts_with_80539",
+      "title": "Shredded sprouts with bacon and chestnuts",
+      "author": "by Deborah Reddihough",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: none required",
+      "serves": false
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sprouts_with_chestnuts_87565",
+      "title": "Brussels sprouts with chestnuts and pancetta",
+      "author": "by Mary Berry",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/fried_chicken_with_15425",
+      "title": "Fried chicken with pumpkin and Brussels sprouts",
+      "author": "by Marcus Samuelsson",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/creamedbrusselssprou_84835",
+      "title": "Sprouts with crispy bacon",
+      "author": "by Richard Corrigan",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4-6"
+    }
+  ],
+  "cabbage-red": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pickled_red_cabbage_70451",
+      "title": "Pickled red cabbage",
+      "author": "by Pam Corbin",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: <10 mins",
+      "serves": "Makes 2 x 500ml/18fl oz jars"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pork_loin_with_red_89764",
+      "title": "Pork loin with red wine-spiced red cabbage and caramelised shallots",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/potato-crusted_pork_with_33418",
+      "title": "Potato-crusted pork with braised red cabbage",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/venison_steaks_with_red_18489",
+      "title": "Venison steaks with red cabbage and potato pancakes",
+      "author": "by Tom Kerridge",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/make-ahead_red_cabbage_13106",
+      "title": "Red cabbage",
+      "author": "by Deborah Reddihough",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 8"
+    }
+  ],
+  "cabbage-savoy": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/festiveduckbreastwit_87820",
+      "title": "Festive duck breast with pancetta, Savoy cabbage and mash",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/wild_duck_with_orange_75399",
+      "title": "Wild duck with orange juice and savoy cabbage with smoked bacon",
+      "author": "by Pierre Koffmann",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lamb_and_stuffed_cabbage_55109",
+      "title": "Roast saddle of lamb with baked Savoy cabbage",
+      "author": "by Matt Tebbutt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/quick_sausage_casserole_96047",
+      "title": "Quick sausage casserole with Savoy cabbage pesto",
+      "author": "by Tom Kerridge",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/loinofvenisonencrout_92734",
+      "title": "Loin of venison en croute with buttered Savoy cabbage",
+      "author": "by Galton Blackiston",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "cabbage-green": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pork-stuffed_cabbage_13507",
+      "title": "Pork-stuffed cabbage leaves",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Makes 24 (serves 6)"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/raw_scallops_75108",
+      "title": "Raw scallops, kimchi-style cabbage and Gentleman’s Relish mayonnaise",
+      "author": "by Paul Ainsworth",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: overnight",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/smoked_ox_cheek_with_84998",
+      "title": "Smoked ox cheek with cabbage",
+      "author": "by Aktar Islam",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sauerkraut_19958",
+      "title": "Sauerkraut",
+      "author": "by Justine Pattison",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: overnight",
+      "cook": "Cook: none required",
+      "serves": "Makes Around 600g/1lb 5oz"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/january_king_cabbage_07669",
+      "title": "January King cabbage with mussels and cockles",
+      "author": "by Nigel Haworth",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "cabbage-white": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pickled_red_cabbage_70451",
+      "title": "Pickled red cabbage",
+      "author": "by Pam Corbin",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: <10 mins",
+      "serves": "Makes 2 x 500ml/18fl oz jars"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/potato-crusted_pork_with_33418",
+      "title": "Potato-crusted pork with braised red cabbage",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/white_cabbage_escabeche_33284",
+      "title": "White cabbage escabeche with free-range quail and chanterelles",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/raw_scallops_75108",
+      "title": "Raw scallops, kimchi-style cabbage and Gentleman’s Relish mayonnaise",
+      "author": "by Paul Ainsworth",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: overnight",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sauerkraut_19958",
+      "title": "Sauerkraut",
+      "author": "by Justine Pattison",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: overnight",
+      "cook": "Cook: none required",
+      "serves": "Makes Around 600g/1lb 5oz"
+    }
+  ],
+  "carrots": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mrcarrotoncreamedcar_88122",
+      "title": "'Mr Carrot' on creamed carrot",
+      "author": "by Brian Turner",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roasted_carrots_with_78618",
+      "title": "Roasted carrots with carrot-top pesto and burrata",
+      "author": "by April Bloomfield",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/nut-free_carrot_and_32952",
+      "title": "Carrot and chickpea traybake",
+      "author": "by Hemsley + Hemsley",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes 16 pieces"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/italcarrotandsweetpo_91711",
+      "title": "Carrot and sweet potato soup",
+      "author": "by Levi Roots",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/carrot_spelt_cupcakes_72408",
+      "title": "Carrot cake cupcakes",
+      "author": "by Dan Lepard",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes about 12"
+    }
+  ],
+  "cauliflower": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/turbot_with_cauliflower_17937",
+      "title": "Turbot with cauliflower cheese purée",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/turmeric-roasted_76567",
+      "title": "Turmeric-roasted cauliflower with Stilton cream and deep-fried cauliflower leaves",
+      "author": "by Andi Oliver",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/layered_sole_with_06011",
+      "title": "Layered sole with langoustines and cauliflower",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roasted_pork_knuckle_94889",
+      "title": "Roasted pork knuckle with aubergine purée and whole roasted cauliflower",
+      "author": "by Michel Roux Jr.",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pan_fried_scallops_with_48595",
+      "title": "Pan fried scallops with caramelised cauliflower purée and cumin velouté",
+      "author": "by Michael Caines",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "celeriac": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/baked_celeriac_and_74227",
+      "title": "Baked celeriac and crispy duck egg salad",
+      "author": "by Bryn Williams",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/fillet_of_turbot_with_33580",
+      "title": "Fillet of turbot with smoky celeriac purée, buttered cabbage and hazelnut pesto",
+      "author": "by Phil Howard",
+      "mealType": "OTHER",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mustard_and_muscovado_29561",
+      "title": "Roasted ham hocks with celeriac mash, celeriac and apple salad and a raisin and pasilla chutney",
+      "author": "by Thomasina Miers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/celeriac_risotto_28472",
+      "title": "Celeriac risotto",
+      "author": "by Claude Bosi",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/guinea_fowl_in_a_85291",
+      "title": "Guinea fowl in a celeriac wrap with Alexander kimchi and turmeric sauce",
+      "author": "by Frances Atkins",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 2"
+    }
+  ],
+  "chard": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spaghetti_with_chard_02141",
+      "title": "Spaghetti with chard, chilli and anchovies",
+      "author": "by Nigella Lawson",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beer-marinated_rack_of_35117",
+      "title": "Beer-marinated rack of pork with Swiss-chard gratin",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/gratinofchardandnewp_85609",
+      "title": "Gratin of chard and new potatoes",
+      "author": "by Sophie Grigson",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/strozzapreti_90648",
+      "title": "Vegetarian chard and cheese dumplings (strozzapreti)",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/duck_three_ways_with_24881",
+      "title": "Duck three ways with roasted pears, shallots, wilted chard and a red wine reduction",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "chilli": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beef_chilli_with_bitter_27455",
+      "title": "The Hairy Bikers' beef chilli",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 8–10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/vegetable_mexican_chilli_39549",
+      "title": "Vegetable chilli with tortilla chips",
+      "author": "by The Hilliard Family",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chilliconcarne_67875",
+      "title": "Chilli con carne",
+      "author": "by Jo Pratt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beefsteakwithgriddle_71404",
+      "title": "Beef steak with griddled vegetables and chilli pesto",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spicy_chilli_con_carne_58238",
+      "title": "Spicy chilli con carne with guacamole",
+      "author": "by Lorraine Pascale",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "courgettes": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stuffed_courgette_53388",
+      "title": "Stuffed courgette flowers",
+      "author": "by Bryn Williams",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/deepfriedcourgettefl_89332",
+      "title": "Deep-fried courgette flowers",
+      "author": "by Simon Rimmer",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/courgettefritters_87587",
+      "title": "Courgette fritters",
+      "author": "by Rachel Phipps",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/baked_courgette_fritters_54670",
+      "title": "Courgette fritters with marinara sauce",
+      "author": "by Lorraine Pascale",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/balsamicglazedlambwi_90382",
+      "title": "Balsamic glazed lamb with marinated courgette ribbons",
+      "author": "by Gino D'Acampo",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "fennel": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/fennel_and_lemon_risotto_28159",
+      "title": "Fennel and lemon risotto, Parmesan crisps and fennel fritters",
+      "author": "by The Charles Family",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/filletofsalmonwithfe_85070",
+      "title": "Fillet of salmon with fennel and potato mash and red wine vinaigrette",
+      "author": "by Paul Rankin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pan-fried_trout_with_88316",
+      "title": "Trout with roasted beetroot and fennel salad",
+      "author": "by Donal Skehan",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/red_mullet_with_thai_05964",
+      "title": "Red mullet with fennel, dill and lime salad",
+      "author": "by Michael Caines",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sauteedcaramelisedfe_67187",
+      "title": "Sautéed caramelised fennel",
+      "author": "by Delia Smith",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4-6"
+    }
+  ],
+  "garlic": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chargilledlambfillet_93996",
+      "title": "Chargilled lamb fillet with garlic puree, borlotti beans and wild garlic",
+      "author": "by Paul Rankin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/grilledsirloinwithro_89046",
+      "title": "Grilled sirloin with roast garlic, pancetta, thyme butter and sweet garlic kale",
+      "author": "by Paul Rankin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roast_shellfish_platter_05498",
+      "title": "Roast shellfish platter with garlic and chilli butter and roast garlic mayonnaise",
+      "author": "by Matt Tebbutt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/wild_garlic_soup_with_17660",
+      "title": "Wild garlic soup with bacon-fat potatoes and sour cream",
+      "author": "by Lisa Allen",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chicken_roasted_over_34391",
+      "title": "Chicken roasted over sourdough with morels, peas and wild garlic mayonnaise",
+      "author": "by Ben Tish",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "kale": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/how_to_cook_kale_13485",
+      "title": "How to cook kale",
+      "author": false,
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/fillet_of_lemon_sole_29298",
+      "title": "Fillet of lemon sole with kale and crab butter sauce",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/kale_and_kohlrabi_kimchi_63904",
+      "title": "Kale and kohlrabi kimchi with pulled pork",
+      "author": "by Tom Hunt",
+      "mealType": "OTHER",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spaghetti_with_kale_43804",
+      "title": "Spaghetti with kale, anchovies and chilli",
+      "author": false,
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roast_lamb_breast_with_79818",
+      "title": "Roast lamb breast with heirloom tomatoes and kale",
+      "author": "by Pip Lacey",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "leeks": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/charred_leeks_with_40366",
+      "title": "Charred leeks with girolles and leek mayonnaise",
+      "author": "by Bryn Williams",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/leekandpotatosoup_85929",
+      "title": "Leek and potato soup with spicy bacon",
+      "author": "by Paul Rankin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/searedsalmonwithleek_88794",
+      "title": "Seared salmon with leek mash and mustard hollandaise sauce",
+      "author": "by Nick Nairn",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chickenandleekpie_90191",
+      "title": "Chicken and leek pie",
+      "author": "by Kerry Whelpdale",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/creamedleekcrostiniw_84524",
+      "title": "Creamed leek crostini with bacon and poached eggs",
+      "author": "by James Tanner",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "marrow": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stuffed_marrow_43279",
+      "title": "Stuffed marrow",
+      "author": "by Avis Davies",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/italian-style_stuffed_63676",
+      "title": "Italian-style stuffed marrow",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chorizopepperandcous_75307",
+      "title": "Chorizo and couscous stuffed marrow",
+      "author": "by Antony Worrall Thompson",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lambstuffedrolledmar_89438",
+      "title": "Lamb-stuffed rolled marrow with salad",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pittsburgh_black_and_30011",
+      "title": "Pittsburgh black and blue steak, fried duck egg and bone marrow with radish and watercress",
+      "author": "by Tom Kerridge",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "onions": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rib-eye_steak_with_deep_64911",
+      "title": "Rib-eye steak with deep fried onion rings and onion butter",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/frenchonionsoupwithc_87385",
+      "title": "French onion soup with cheese croute, red onion compôte and shallot rings",
+      "author": "by James Martin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/steakandkidneypuddin_89211",
+      "title": "Steak and kidney pudding with onion gravy",
+      "author": false,
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/gourmetburgerandunbe_86229",
+      "title": "Gourmet burger and unbelievable onion rings",
+      "author": "by Simon Rimmer",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cauliflower_black_pea_91065",
+      "title": "Cauliflower, black pea, hummus, cured ham and a smoked onion sauce",
+      "author": "by Nigel Haworth",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 2"
+    }
+  ],
+  "pak-choy": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/miso_ramen_soup_with_15548",
+      "title": "Miso ramen soup with buckwheat noodles",
+      "author": "by Hemsley + Hemsley",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/nourishing_mixed_seafood_92551",
+      "title": "Nourishing mixed seafood broth",
+      "author": "by Ching-He Huang",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/five_spice_belly_pork_81415",
+      "title": "Five spice belly pork with Asian greens",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 6-8"
+    }
+  ],
+  "parsnips": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cauliflower_mousse_with_80142",
+      "title": "Cauliflower mousse with apple compote, pickles and parsnip crisps",
+      "author": "by Ruth Hansom",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mushroom_and_parsnip_91300",
+      "title": "Mushroom and parsnip rösti pie",
+      "author": "by Anna Jones",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/proscuittowrappedlam_87480",
+      "title": "Prosciutto-wrapped lamb cutlets with green beans and parsnip ribbons",
+      "author": "by Donna Hay",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spicedvenisonwithpea_87798",
+      "title": "Spiced venison with pear chutney and sweet spicy parsnip chips",
+      "author": "by Atul Kochhar",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spicyparsnipsoupwith_85046",
+      "title": "Spicy parsnip soup with bacon croûtons",
+      "author": "by Lesley Waters",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "peas": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/hotsmokedtroutwithpe_91173",
+      "title": "Hot smoked trout with peas and fresh mint",
+      "author": "by Tristan Welch",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/battered_pollock_81633",
+      "title": "Battered pollock baguettes with mushy peas and lemon mayonnaise",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/fish_chips_mushy_peas_33132",
+      "title": "Fish, chips, mushy peas and tartare sauce",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beer_battered_hake_with_37004",
+      "title": "Beer battered hake with mushy peas and tartare sauce",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beeranddillbatteredc_92901",
+      "title": "Beer and dill-battered cod with mushy peas",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "peppers": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/teriyaki_glazed_salmon_24085",
+      "title": "Teriyaki glazed salmon with sweet and sour peppers and wasabi hollandaise",
+      "author": "by Will Holland",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stuffedbabypeppers_67844",
+      "title": "Stuffed baby peppers",
+      "author": "by Gennaro Contaldo",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/paprika_monkfish_with_54566",
+      "title": "Paprika monkfish with romesco sauce and padrón peppers",
+      "author": false,
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/veggie_stuffed_peppers_88266",
+      "title": "Veggie stuffed peppers",
+      "author": "by Hala El-Shafie",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/piedmontese_peppers_40938",
+      "title": "Piedmontese roast peppers",
+      "author": "by Simon Hopkinson",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "potatoes": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roastpotatoes_92811",
+      "title": "Perfect roast potatoes",
+      "author": "by Mike Robinson",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/hasselback_potatoes_27064",
+      "title": "Hasselback potatoes",
+      "author": "by Justine Pattison",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/slow-braised_milk-fed_31803",
+      "title": "Braised lamb shoulder with cumin potatoes",
+      "author": "by Vivek Singh",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/steak_diane_with_saut_67797",
+      "title": "Steak Diane with sauté potatoes",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chestnut_sage_and_onion_10683",
+      "title": "Chestnut, sage and onion stuffed pork loin with dauphinoise potatoes",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 12-16"
+    }
+  ],
+  "potatoes-new": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/steamedseabreamwithl_91313",
+      "title": "Steamed sea bream with lemon-roasted new potatoes, asparagus and basil hollandaise",
+      "author": "by James Tanner",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/duo_of_lamb_with_paloise_18894",
+      "title": "Duo of lamb with paloise sauce and crushed new potatoes and green beans",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/panfriedmackerelwith_84849",
+      "title": "Grilled mackerel with gooseberry sauce, new potatoes and salad leaves",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/frenchchickenwithnew_76870",
+      "title": "French chicken with new potatoes",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spicytroutwithcrushe_84708",
+      "title": "Spicy trout with crushed new potatoes and sesame and honey-coated vegetables",
+      "author": "by Lesley Waters",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "pumpkins": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pumpkingnocchi_73190",
+      "title": "Pumpkin gnocchi",
+      "author": "by Gennaro Contaldo",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pumpkinandparmesanso_92784",
+      "title": "Pumpkin and parmesan soup",
+      "author": "by Bryn Williams",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/confit_chicken_wing_with_01511",
+      "title": "Confit chicken wing with blue cheese mousse and pickled pumpkin",
+      "author": "by Michael Wignall",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pumpkin_cider_cake_90964",
+      "title": "Pumpkin cake",
+      "author": "by Emily Angle",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/ongletsteakswithpump_92614",
+      "title": "Onglet steaks with pumpkin jam, Ratte potatoes and wild mushrooms",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "shallot": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/seared_feather_blade_of_89425",
+      "title": "Seared feather blade of Wagyu beef with shallot rings, beetroot purée, curly kale, sautéed potatoes, beef jus",
+      "author": "by Galton Blackiston",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/potted_cheese_with_bacon_95756",
+      "title": "Potted cheese with bacon and shallot",
+      "author": "by The Hairy Bikers",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/frenchonionsoupwithc_87385",
+      "title": "French onion soup with cheese croute, red onion compôte and shallot rings",
+      "author": "by James Martin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/jerusalemartichokeso_79270",
+      "title": "Jerusalem artichoke soup with pheasant and crispy shallot",
+      "author": "by James Martin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/warmpotatosaladwiths_86599",
+      "title": "Warm potato salad with shallot dressing",
+      "author": "by Bryn Williams",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "spinach": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spinachmushroomandri_85464",
+      "title": "Spinach, mushroom and ricotta quiche with sautéed spinach",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pastawithcourgettesa_93036",
+      "title": "Courgette pasta with spinach balls",
+      "author": "by Antonio Carluccio",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/tortapasquale_88435",
+      "title": "Easter spinach pie (torta pasquale)",
+      "author": "by Gennaro Contaldo",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/holstein_steak_with_84663",
+      "title": "Holstein steak with spinach and wheatgrass",
+      "author": "by Brad Carter",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sausage_and_spinach_65547",
+      "title": "Sausage and spinach cakes on braised barley",
+      "author": "by Brian Turner",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "squash": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/barbecued_lamb_with_55922",
+      "title": "Barbecued lamb with baked squash, anchovy, capers and brown butter",
+      "author": "by Ben Tish",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4 as a main, 6-8 as a tapa"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/butternut_squash_soup_90300",
+      "title": "Butternut squash soup",
+      "author": "by Nigel Slater",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 3-4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/butternut_squash_with_55612",
+      "title": "Butternut squash with Persian pistachio pesto, feta and pomegranate seeds",
+      "author": "by Sabrina Ghayour",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lamb_rump_with_roasted_47021",
+      "title": "Lamb rump with roasted onion squash and salsa verde",
+      "author": "by Theo Randall",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stuffedsquash_92588",
+      "title": "Stuffed butternut squash",
+      "author": "by Nigel Slater",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "swede": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/swedemash_78187",
+      "title": "Swede mash",
+      "author": false,
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4–6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/slow-cooked_ox_cheeks_07102",
+      "title": "Slow-cooked ox cheeks with honey-glazed apples and swede",
+      "author": "by Glynn Purnell",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/venison_swede_and_74619",
+      "title": "Venison, swede and blackberries",
+      "author": "by Bryn Williams",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/creamroastedswedesou_79761",
+      "title": "Cream roasted swede soup",
+      "author": "by Antony Worrall Thompson",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/grilledbeefrumpsteak_84729",
+      "title": "Grilled beef rump steak with swede fondant",
+      "author": "by Brian Turner",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "sweetcorn": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/goatandsweetcorncurr_93827",
+      "title": "Goat and sweetcorn curry with chickpea flatbread",
+      "author": "by Vivek Singh",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sweetcorn_fritters_with_42524",
+      "title": "Sweetcorn fritters with crispy bacon and tomatoes",
+      "author": "by John Torode",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sweetcorn_chowder_20226",
+      "title": "Easy sweetcorn chowder",
+      "author": "by Justine Pattison",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sweetcorn_fritters_46558",
+      "title": "Sweetcorn fritters",
+      "author": "by The Hairy Bikers",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes 12 fritters"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/crabandsweetcornsoup_89965",
+      "title": "Crab and sweetcorn soup",
+      "author": "by Simon Rimmer",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "turnips": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roast_john_dory_with_77951",
+      "title": "Pan-fried John Dory with turnips and chestnuts",
+      "author": "by Tom Aikens",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mutton_chops_with_potato_75289",
+      "title": "Mutton chops with potato and turnip gratin",
+      "author": "by Tom Kerridge",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/grilled_mackerel_with_45828",
+      "title": "Grilled mackerel with pickled turnip, asparagus and watercress",
+      "author": "by James Martin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pork_rib-eye_with_84022",
+      "title": "Pork rib-eye with stuffed cabbage and ‘sauer’ turnip",
+      "author": "by Michel Roux Jr.",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/organic_salmon_and_58694",
+      "title": "Organic salmon and brassicas",
+      "author": "by Sat Bains",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "celery": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/celerybakedinvinaigr_67190",
+      "title": "Celery baked with pancetta and shallots",
+      "author": "by Delia Smith",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sizzlingriceprawns_79924",
+      "title": "Sizzling rice prawns with curried celery",
+      "author": "by Ken Hom",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/duckteriyakiwithpick_83001",
+      "title": "Duck teriyaki with pickled cucumber served with celery leaf tempura",
+      "author": "by Paul Rankin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/smoked_fishcakes_with_09259",
+      "title": "Smoked fishcakes with gooseberry chutney and celery and watercress salad",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/celerysoup_85016",
+      "title": "Celery soup",
+      "author": "by James Tanner",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "cress": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/three_cheese_and_cress_14627",
+      "title": "Three cheese and cress muffins",
+      "author": "by Kate Morris and Sally Brown",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": false
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lobster_thai_curry_with_47060",
+      "title": "Lobster Thai curry with butter basmati rice and coriander cress",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/wildmushroomandsweet_92214",
+      "title": "Wild mushroom and sweetcorn biryani parcels",
+      "author": "by Atul Kochhar",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/risotto_nero_with_31551",
+      "title": "Risotto nero with saffron chilli squid",
+      "author": "by Lawrence Keogh",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/john_dory_mousseron_78446",
+      "title": "John Dory, mousseron mushrooms, broad beans and wild strawberries",
+      "author": "by Amandine Chaignot",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "cucumber": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/salmon_gravadlax_with_42893",
+      "title": "Salmon gravad lax with pickled cucumber, cucumber ketchup, mustard mayo and croûtons",
+      "author": "by James Martin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/whisky-cured_salmon_with_58695",
+      "title": "Whisky-cured salmon with pickled beetroot, cucumber, shallots and cucumber ketchup",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/vanilla_cured_salmon_21998",
+      "title": "Vanilla cured salmon with cucumber ketchup, charred cucumber and pickled ginger",
+      "author": "by James Martin",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: overnight",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cured_grilled_mackerel_89657",
+      "title": "Cured grilled mackerel, cucumber, pickled lemon, broad beans and peas",
+      "author": "by Ashley Palmer Watts",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mackerelontoastwiths_90005",
+      "title": "Mackerel on toast with salted cucumber and horseradish",
+      "author": "by Valentine Warner",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "lettuce-cos": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roast_brill_with_55417",
+      "title": "Roast brill with scorched lettuce and fondue of onion with crème fraîche",
+      "author": "by Glynn Purnell",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lettuceandlovagesoup_14299",
+      "title": "Lettuce and lovage soup",
+      "author": "by Hugh Fearnley-Whittingstall",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/salade_landaise_with_15997",
+      "title": "Salade landaise with romaine lettuce and bleu d’Auvergne",
+      "author": "by Eric Chavot",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/caesarsalad_72154",
+      "title": "Caesar salad",
+      "author": "by Antony Worrall Thompson",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2-3"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chickpea_burgers_00951",
+      "title": "Vegan burgers",
+      "author": "by Matt Tebbutt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "lettuce-iceberg": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/prawn_and_mango_salad_19134",
+      "title": "Prawn and pork lettuce cups",
+      "author": "by Annabel Langbein",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lettuce_soup_89522",
+      "title": "Lettuce soup",
+      "author": "by Justine Pattison",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spiced_aubergine_pure_35413",
+      "title": "Spiced aubergine purée and grilled vegetables in lettuce cups",
+      "author": "by Matt Tebbutt",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/crispy_mongolian_lamb_05784",
+      "title": "Crispy Mongolian lamb lettuce wraps",
+      "author": "by Ching-He Huang",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/wedge_salad_11274",
+      "title": "Wedge salad",
+      "author": "by The Hairy Bikers",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 6"
+    }
+  ],
+  "lettuce-little-gem": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/langoustineswithlitt_91763",
+      "title": "Langoustines with Little Gem salad",
+      "author": "by James Martin",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/broad_bean_and_little_99871",
+      "title": "Broad bean and Little Gem salad",
+      "author": "by Mary Berry",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cromercrabrarebitwit_87267",
+      "title": "Crab rarebit with fries and a Little Gem salad",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/scallops_coquilles_saint_73301",
+      "title": "Scallops Coquilles Saint Jacques with a Little Gem salad",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/peanut_chicken_with_54593",
+      "title": "Peanut chicken with satay sauce and little gem salad",
+      "author": "by James Martin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "radish": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/crispyfragrantduckwi_89266",
+      "title": "Crispy fragrant duck with pickled radish salad",
+      "author": "by Ching-He Huang",
+      "mealType": "RECIPE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lime-cured_mackerel_46354",
+      "title": "Lime-cured mackerel, Japanese radish and green tea",
+      "author": "by Jason Atherton",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/ultimate_korean_fried_29527",
+      "title": "Ultimate Korean fried chicken with pickled radish",
+      "author": "by Judy Joo",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mackerel_with_honey_miso_49383",
+      "title": "Mackerel with honey miso, daikon radish, spring onion and horseradish cream",
+      "author": "by Ryan Simpson",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/radish_and_shallot_02078",
+      "title": "Radish and shallot pickle",
+      "author": "by Brian Turner",
+      "mealType": "OTHER",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Makes 1 small jar of pickle"
+    }
+  ],
+  "rocket": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rocket_and_ricotta_96494",
+      "title": "Rocket and ricotta cannelloni with tomato sauce and burrata",
+      "author": "by Matt Tebbutt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/taleggioandrocketpes_85294",
+      "title": "Taleggio and rocket pesto tart",
+      "author": "by Phil Vickery",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rocketandpotatosoup_76750",
+      "title": "Rocket and potato soup",
+      "author": "by Paul Rankin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chargrilledlambwitha_88296",
+      "title": "Chargrilled lamb with rocket pesto, roasted tomatoes and crushed sweet potato",
+      "author": "by Tony Tobin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/escalopeofchickenwit_92046",
+      "title": "Chicken escalope with rocket, sage and lemon",
+      "author": "by Paul Merrett",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "spring-onions": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/five-spice_whole_roast_95220",
+      "title": "Five-spice whole roast duck with pancakes, cucumber, spring onion and plum sauce",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chicken_kiev_with_a_68028",
+      "title": "Chicken kiev with a cucumber and spring onion salad",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chargrilledleeksprin_86959",
+      "title": "Chargrilled leek, spring onion and halloumi salad with tea-smoked chicken",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/springonionchillipra_84418",
+      "title": "Spring onion chilli prawns",
+      "author": "by Paul Rankin",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mushroom_wild_rice_salad_47495",
+      "title": "Mushroom wild rice salad with pomegranate and spring onion",
+      "author": "by Rukmini Iyer",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "tomatoes": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/heritage_tomato_tart_49741",
+      "title": "Heritage tomato tart with blow-torched tomato salad",
+      "author": "by James Martin",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/summer_tomato_salad_22698",
+      "title": "Summer tomato salad served with tomato consommé and tapenade",
+      "author": "by Tom Kitchin",
+      "mealType": "SIDE DISHES",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: none required",
+      "serves": "Serves 2-3"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stuffedtomatoes_92957",
+      "title": "Stuffed tomatoes with tomato sauce",
+      "author": "by Raymond Blanc",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chargrilledsteakkeba_88675",
+      "title": "Chargrilled steak kebabs with tomato chutney",
+      "author": "by Phil Vickery",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/minute_steak_with_tomato_49796",
+      "title": "Minute steak with tomato gravy and Aleppo chilli butter",
+      "author": "by Josh Katz",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2-4"
+    }
+  ],
+  "watercress": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/watercress_soup_with_81330",
+      "title": "Watercress soup with garlic croûtons and soft pickled quails’ eggs",
+      "author": "by Tom Kerridge",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/braisedhalibutwithwa_89761",
+      "title": "Braised halibut with watercress purée, coddled quails' eggs and grilled baby leeks",
+      "author": "by Marcus Wareing",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/salmon_fishcakes_with_25902",
+      "title": "Salmon fishcakes with watercress mayonnaise",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/ragoutoffreshwatercr_88577",
+      "title": "Ragoût of crayfish, girolles, fregola pasta, courgettes and watercress cream",
+      "author": "by Adam Byatt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/smokedtroutwithwater_92663",
+      "title": "Smoked trout with watercress purée and chopped egg salad",
+      "author": "by Allegra McEvedy",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: none required",
+      "serves": "Serves 6"
+    }
+  ],
+  "mushrooms": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stuffedmushrooms_83607",
+      "title": "Halloumi stuffed mushroom",
+      "author": "by Brian Turner",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mushroomstuffedwiths_86057",
+      "title": "Mushroom stuffed with spinach, breadcrumbs, garlic and herbs",
+      "author": "by Tony Tobin",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mushroomcheeseandste_85185",
+      "title": "Mushroom, cheese and steak stack with red pepper dressing",
+      "author": "by Phil Vickery",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stuffedmushroom_75689",
+      "title": "Stuffed mushroom",
+      "author": "by Nick Nairn",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/creamymushroompancak_79850",
+      "title": "Creamy mushroom pancakes with thyme-roasted tomatoes",
+      "author": "by Lesley Waters",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    }
+  ],
+  "mushrooms-oyster": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pork_and_potato_hash_76723",
+      "title": "Pork and potato hash with oyster mushrooms",
+      "author": "by Ching-He Huang",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4–6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beefinoystersauce_89263",
+      "title": "Beef in oyster sauce",
+      "author": "by Ching-He Huang",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/scallopswitholorosos_87612",
+      "title": "Scallops with oloroso sherry, oyster mushrooms and migas",
+      "author": "by Sam and Sam Clark",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/stir-fried_oyster_50603",
+      "title": "Stir-fried oyster mushroom broth",
+      "author": "by Raymond Blanc",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/beancurdwithoystersa_90178",
+      "title": "Tofu with 'oyster' sauce",
+      "author": "by Madhur Jaffrey",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4-6"
+    }
+  ],
+  "mushrooms-shitake": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/wild_mushroom_galettes_33717",
+      "title": "Wild mushroom galettes",
+      "author": "by Mary Berry",
+      "mealType": "STARTERS & NIBBLES",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/tofu_ram-don_90896",
+      "title": "Smoked tofu and broccoli Korean-style ram-don (jjapaguri)",
+      "author": "by Ching-He Huang",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/thai_sea_bass_with_36821",
+      "title": "Thai sea bass with peanut dressing",
+      "author": "by Matt Tebbutt",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "apples-braeburn": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/gin_and_tonic_granita_18303",
+      "title": "Gin and tonic granita",
+      "author": "by Tom Kerridge",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/tarte_tatin_72509",
+      "title": "Tarte tatin",
+      "author": "by Raymond Blanc",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6-8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/upside-down_pie_97366",
+      "title": "Upside-down apple pie with butterscotch sauce",
+      "author": "by Paul Ainsworth",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/apple_cherry_and_37920",
+      "title": "Apple, cherry and marzipan pie",
+      "author": "by Ruby Tandoh",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/gardeners_brunch_51130",
+      "title": "Gardener’s brunch",
+      "author": "by Emily Howells & Pam Bufton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4, plus extra scones"
+    }
+  ],
+  "apples-bramley": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/baked_bramley_apple_with_15070",
+      "title": "Baked Bramley apple with spiced custard and apple granita",
+      "author": "by Sat Bains",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/braised_pig_cheeks_with_47819",
+      "title": "Braised pig cheeks with mashed potato and Bramley apple sauce",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/bramley_apple_and_81186",
+      "title": "Bramley apple and blackberry soufflé",
+      "author": "by Michel Roux Jr.",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/bramley_apple_and_63079",
+      "title": "Bramley apple and blackberry millefeuille tart",
+      "author": "by James Martin",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes 6-8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chestnutroastedbutte_90627",
+      "title": "Chestnut, roasted butternut squash and Bramley apple soup",
+      "author": "by The Hairy Bikers",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": false
+    }
+  ],
+  "apples-cox": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pork_schnitzel_with_81329",
+      "title": "Pork schnitzel with fried duck egg, pickled apple and apple purée",
+      "author": "by Tom Kerridge",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roastpartridgewithsp_92673",
+      "title": "Roast partridge with spiced apple sauce and walnut sauce",
+      "author": "by Lawrence Keogh",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/apple_and_toffee_crumble_76635",
+      "title": "Apple and toffee crumble pie",
+      "author": "by Tom Kerridge",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/applecharlottewithca_89888",
+      "title": "Apple charlotte with caramel sauce",
+      "author": "by Simon Rimmer",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/sticky_toffee_apple_82973",
+      "title": "Sticky toffee apple pudding with calvados caramel sauce",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    }
+  ],
+  "apples-golden": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/apple_and_wensleydale_16189",
+      "title": "Apple and Wensleydale pie",
+      "author": "by Paul Hollywood",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cinnamon_doughnuts_with_48492",
+      "title": "Cinnamon doughnuts with apple filling, maple glaze and vanilla créme Anglaise",
+      "author": "by Jason Atherton",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes 30 doughnuts"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/tartetatin_80584",
+      "title": "Apple tarte tatin",
+      "author": "by Oliver Rowe",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/appletartmamanblanc_93268",
+      "title": "Apple tart 'Maman Blanc'",
+      "author": "by Raymond Blanc",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mini_apple_and_almond_10454",
+      "title": "Mini apple and almond cakes",
+      "author": "by Mary Berry",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes 6 cakes"
+    }
+  ],
+  "apples-gala": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/apple_and_toffee_crumble_76635",
+      "title": "Apple and toffee crumble pie",
+      "author": "by Tom Kerridge",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/healthy_apple_crumble_30931",
+      "title": "Healthy apple crumble",
+      "author": "by Sunil Vijayakar",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/apple_crumble_with_63159",
+      "title": "Apple crumble with cardamom custard",
+      "author": "by The Marks Family",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/whole_baked_plaice_with_83393",
+      "title": "Whole baked plaice with thyme, cavolo nero, celeriac, walnuts and apple",
+      "author": "by Tristan Welch",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pork_tenderloin_stuffed_50738",
+      "title": "Pork tenderloin stuffed with apricots, apples and ginger",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 6"
+    }
+  ],
+  "blackberries": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/individualappleandbl_92217",
+      "title": "Blackberry and apple pies",
+      "author": "by Simon Rimmer",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/victoria_sponge_36175",
+      "title": "Blackberry cake",
+      "author": "by The Hairy Bikers",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes 10-12 slices"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/appletartwithblackbe_89565",
+      "title": "Apple tart with blackberry sorbet",
+      "author": "by Simon Rimmer",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/gluten-free_blackberry_52734",
+      "title": "Gluten-free blackberry and ginger cheesecake",
+      "author": "by Howard Middleton",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 9"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roasted_guinea_fowl_with_55235",
+      "title": "Roasted guinea fowl with parsnip purée, blackberry sauce and cobnuts",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    }
+  ],
+  "currants": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/blackcurrantcream_91972",
+      "title": "Blackcurrant cream",
+      "author": "by Valentine Warner",
+      "mealType": "DESSERTS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes 1 x 1 litre/1.75 pints"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/blackcurrant_and_96079",
+      "title": "Blackcurrant and liquorice Swiss roll",
+      "author": "by Paul Hollywood",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/blackcurrantmeringue_87044",
+      "title": "Blackcurrant meringue",
+      "author": "by James Tanner",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/baked_blackcurrant_rice_06422",
+      "title": "Baked blackcurrant rice",
+      "author": false,
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/simple_blackcurrant_jam_77904",
+      "title": "Simple blackcurrant jam",
+      "author": "by Dan Lepard",
+      "mealType": "OTHER",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes about 450ml/16fl oz (1-2 jam jars)"
+    }
+  ],
+  "blueberries": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pancakeswithblueberr_78335",
+      "title": "Fluffy pancakes with blueberry sauce",
+      "author": "by Ainsley Harriott",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/baked_blueberry_91786",
+      "title": "Baked blueberry cheesecake with blueberry compôte",
+      "author": "by James Martin",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 6-8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/blueberrypancakeswit_87175",
+      "title": "Blueberry pancakes with blueberry sauce",
+      "author": "by Paul Rankin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chiffon_pie_63461",
+      "title": "Chiffon pie",
+      "author": "by Brendan Lynch",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/blueberry_macaroons_89479",
+      "title": "Blueberry macaroons, coconut macaroons and strawberry macaroons",
+      "author": "by Joanne Wheatley",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Makes 60 macaroons"
+    }
+  ],
+  "cherries": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cherry_clafoutis_with_30402",
+      "title": "Cherry clafoutis with cherry ice cream and chocolate sauce",
+      "author": "by Jane Baxter",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6–8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cherry_meringues_with_51276",
+      "title": "Cherry meringues with cherry compôte and vanilla cream",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Makes 2 very large meringue sandwiches"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/iced_buns_15490",
+      "title": "Sour cherry and almond iced buns",
+      "author": "by Nadiya Hussain",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Makes 16 iced buns"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chocolate_cherries_29041",
+      "title": "Maraschino cherry and almond truffles",
+      "author": "by Paul A Young",
+      "mealType": "DESSERTS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes 24"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/cherry_slice_34744",
+      "title": "Cherry slice",
+      "author": "by Brian Turner",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 4"
+    }
+  ],
+  "damsons": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/lamb_mushroom_pierogi_69018",
+      "title": "Lamb and wild mushroom pierogi with damson chilli jam",
+      "author": "by Andi Oliver",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/damsoncobbler_70309",
+      "title": "Damson cobbler",
+      "author": "by Rick Stein",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6-8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/walnutbakewelltartwi_87482",
+      "title": "Walnut Bakewell tart with roasted medlars",
+      "author": "by James Martin",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 10-12"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mulledwine_8156",
+      "title": "Mulled wine with sloe gin",
+      "author": false,
+      "mealType": "DRINKS AND COCKTAILS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: <10 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/jam_roly_poly_48764",
+      "title": "Plum jam roly-poly",
+      "author": "by Katharine Reeve",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": false
+    }
+  ],
+  "gooseberries": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/greengage_nectarine_and_67971",
+      "title": "Greengage, nectarine and gooseberry fool",
+      "author": "by Phil Howard",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/gooseberry_and_12470",
+      "title": "Gooseberry and elderflower fool",
+      "author": "by Brian Turner",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roasted_duck_with_quick_75506",
+      "title": "Roasted duck with quick gooseberry jam",
+      "author": "by Jason Atherton",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4-6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/panfriedmackerelwith_84849",
+      "title": "Grilled mackerel with gooseberry sauce, new potatoes and salad leaves",
+      "author": "by James Martin",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roastchickenandsagea_92462",
+      "title": "Roast chicken and stuffing",
+      "author": "by The Hairy Bikers",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 8"
+    }
+  ],
+  "pears-conference": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pear_and_raspberry_15343",
+      "title": "Pear and raspberry frangipane tart",
+      "author": "by Ian Cumming",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Makes 1 x 23cm/9in tart"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roastloinofvenisonwi_93125",
+      "title": "Venison with sweet and sour parsnips, pear and curly kale",
+      "author": "by Glynn Purnell",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/dolcelatte_pear_and_73284",
+      "title": "Dolcelatte, pear and walnut tarts",
+      "author": "by The Hairy Bikers",
+      "mealType": "RECIPE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pear_and_ginger_coins_61585",
+      "title": "Pear and ginger coins",
+      "author": "by Kitty Hope and Mark Greenwood",
+      "mealType": "OTHER",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 2-4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pear_frangipane_18911",
+      "title": "Pear and chocolate frangipane tart",
+      "author": "by The Hairy Bikers",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 8-10"
+    }
+  ],
+  "pears-williams": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roman-style_saltimbocca_44940",
+      "title": "Roman-style saltimbocca with caramelised pear, fried sage and vignarola",
+      "author": "by Eleonora Galasso",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/pear_and_ginger_coins_61585",
+      "title": "Pear and ginger coins",
+      "author": "by Kitty Hope and Mark Greenwood",
+      "mealType": "OTHER",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 2-4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/warm_beetroot_artichoke_27656",
+      "title": "Warm beetroot, artichoke and pear salad",
+      "author": "by Matt Tebbutt",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/baked_pears_stuffed_with_94718",
+      "title": "Pear, walnut and blue cheese tart",
+      "author": "by Matt Tebbutt",
+      "mealType": "LIGHT MEALS & SNACKS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 2"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spiced_pear_tarte_tatin_27685",
+      "title": "Spiced pear tarte tatin with soured ice cream",
+      "author": "by Matt Tebbutt",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4–6"
+    }
+  ],
+  "plums": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/spicedplumcrumblewit_92520",
+      "title": "Spiced plum crumble with plum brandy custard",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/plumpuddingplumduff_89799",
+      "title": "Plum pudding (plum duff)",
+      "author": "by Simon Rimmer",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6-8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roastduckwithchillia_85744",
+      "title": "Roast duck with chilli and plum sauce and peanut crushed potatoes",
+      "author": "by James Tanner",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 1"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/steamedplumspongewit_89897",
+      "title": "Steamed plum sponge with cinnamon custard",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/plumcrumble_89925",
+      "title": "Plum crumble",
+      "author": "by Valentine Warner",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    }
+  ],
+  "raspberries": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/mango_and_raspberry_80510",
+      "title": "Mango and raspberry charlotte russe",
+      "author": "by Nadiya Hussain",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: >2 hrs",
+      "serves": false
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/raspberry_and_white_81250",
+      "title": "Raspberry and white chocolate pavlova",
+      "author": "by Suzie Arbuthnot",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 16"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/raspberry_and_pistachio_61368",
+      "title": "Raspberry and pistachio éclairs",
+      "author": "by Paul Hollywood",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes 24 éclairs"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/raspberrymillefeuill_91646",
+      "title": "Raspberry millefeuille with raspberry sauce",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6-8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/chocolate_martini_45543",
+      "title": "Chocolate martini with raspberry shortbread",
+      "author": "by Matt Tebbutt",
+      "mealType": "DRINKS AND COCKTAILS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 3–4"
+    }
+  ],
+  "rhubarb-forced": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarb_and_stem_ginger_01769",
+      "title": "Rhubarb and stem ginger crème brûlée",
+      "author": "by Tamal Ray",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarb_and_custard_tart_01442",
+      "title": "Rhubarb and custard tart",
+      "author": "by The Hairy Bikers",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/bakedrhubarbcompote_73685",
+      "title": "Baked rhubarb compôte",
+      "author": "by Alastair Little",
+      "mealType": "DESSERTS",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarbandvanillacla_87825",
+      "title": "Rhubarb and vanilla clafoutis",
+      "author": "by Jun Tanaka",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "rhubarb-outdoor": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarbtartwithrhuba_91430",
+      "title": "Rhubarb tarts with rhubarb ice cream",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarb_and_custard_56928",
+      "title": "Rhubarb and custard",
+      "author": "by Raymond Blanc",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarbrumbabaswithr_86472",
+      "title": "Rhubarb rum babas with roasted rhubarb and rhubarb cream",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 1-2 hrs",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 6"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarbpannacottawit_90890",
+      "title": "Rhubarb panna cotta with roasted rhubarb",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/rhubarbjellywithshor_92253",
+      "title": "Rhubarb jellies with shortbread stacks",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: >2 hrs",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    }
+  ],
+  "strawberries": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/blueberry_macaroons_89479",
+      "title": "Blueberry macaroons, coconut macaroons and strawberry macaroons",
+      "author": "by Joanne Wheatley",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Makes 60 macaroons"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/strawberry_pavlova_with_02235",
+      "title": "Strawberry pavlova with vanilla cream",
+      "author": "by James Martin",
+      "mealType": "DESSERTS",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: >2 hrs",
+      "serves": "Serves 6-8"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/funfetti_strawberry_03188",
+      "title": "Funfetti strawberry birthday cake",
+      "author": "by Nadiya Hussain",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Serves 8-10"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/kaiserschmarrn_with_86930",
+      "title": "Kaiserschmarrn with strawberry sauce",
+      "author": "by Wolfgang Puck",
+      "mealType": "DESSERTS",
+      "prep": "Prep: 30-60 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/strawberry_shortcake_91461",
+      "title": "Strawberry shortcake cupcakes",
+      "author": "by Nadiya Hussain",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes 12"
+    }
+  ],
+  "walnuts": [
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/roastpartridgewithsp_92673",
+      "title": "Roast partridge with spiced apple sauce and walnut sauce",
+      "author": "by Lawrence Keogh",
+      "mealType": "MAIN COURSE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/coffee_and_walnut_88342",
+      "title": "Coffee and walnut battenberg cake",
+      "author": "by Mary Berry",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 1-2 hrs",
+      "serves": "Makes 1 cake"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/coffee_walnut_whips_36317",
+      "title": "Coffee walnut whips",
+      "author": "by Kitty Hope and Mark Greenwood",
+      "mealType": "OTHER",
+      "prep": "Prep: overnight",
+      "cook": "Cook: 10-30 mins",
+      "serves": "Makes 11 walnut whips"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/goatscheesedoublebak_91369",
+      "title": "Goats' cheese double-baked soufflés with walnut salad",
+      "author": "by James Martin",
+      "mealType": "RECIPE",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Serves 4"
+    },
+    {
+      "link": "https://www.bbc.co.uk/food/recipes/marys_frosted_walnut_15679",
+      "title": "Mary’s frosted walnut layer cake",
+      "author": "by Mary Berry",
+      "mealType": "CAKES AND BAKING",
+      "prep": "Prep: <30 mins",
+      "cook": "Cook: 30-60 mins",
+      "serves": "Makes 1 large cake"
+    }
+  ]
+}
