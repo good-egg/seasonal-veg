@@ -3,6 +3,7 @@ $color1: #006080;
 $color3: #df6b00;
 $primary: #414752;
 $background: #ffd128;
+$widget-background: #fbf5f0;
 
 $component-background: rgba($primary, 0.025);
 
@@ -35,22 +36,6 @@ body {
     overflow-x: hidden;
 }
 
-section {
-    min-height: 65vh;
-    display: flex;
-    align-content: center;
-    justify-content: center;
-    text-align: center;
-    font-size: 1.2em;
-    max-width: 99%;
-    position: relative;
-
-    @media (min-width: $breakpoint) {
-        min-height: 90vh;
-        margin: 3em 0 0;
-    }
-}
-
 h2 {
     font-size: 2em;
     @media (min-width: $breakpoint) {
@@ -78,19 +63,16 @@ a:hover {
   max-width: 100%;
 }
 
-footer {
-  p {
-    text-align: center;
-  }
-}
 
 .seasonal-veg--container {
   padding: 1rem;
-  background-color: #fbf5f0;
+  background-color: $widget-background;
+  max-width: 700px;
+  margin: auto;
+  display: block;
 }
 
 h1 {
-  font-family: 'ReithSerif';
   text-align: center;
 }
 
@@ -102,6 +84,27 @@ select,
 
 label {
   font-weight: bold;
+}
+
+select {
+  display: block;
+  margin: auto;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  padding: .6em 2em .6em .6em;
+  -ms-text-overflow: '';
+  -o-text-overflow: '';
+  text-overflow: '';
+  background-color: #fff;
+  background-size: 1.3rem;
+  background-position: right center;
+  background-repeat: no-repeat;
+  font-family: inherit;
+
+  &::-ms-expand {
+    display: none;
+  }
 }
 
 .dropdown-container {

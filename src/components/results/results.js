@@ -54,7 +54,7 @@ export default class Results {
 
     populateResults() {
         const foodData = data[this.foodSelected];
-        this.selectedImage.src = `./img/${this.foodSelected}.svg`;
+        this.selectedImage.src = `./assets/img/${this.foodSelected}.svg`;
         const seasonCircles = document.querySelectorAll('.season-calendar--table_icon');
         const foodSeasonality = Object.entries(foodData).filter(([key, value]) => !key.includes('food'));
         foodSeasonality.forEach(([month, value], i) => {
@@ -82,7 +82,7 @@ export default class Results {
         recipes.forEach((recipe, i) => {
             const recipeEl = this.recipeEls[i];
             recipeEl.querySelector('.recipe--link').href = recipe.link;
-            recipeEl.querySelector('.recipe--image').src = `./img/generated-images/${this.foodSelected}.png`;
+            recipeEl.querySelector('.recipe--image').src = `./assets/img/generated-images/${this.foodSelected}.png`;
             recipeEl.querySelector('.recipe--title').innerText = recipe.title;
             recipeEl.querySelector('.recipe--author').innerText = recipe.author;
             recipeEl.querySelector('.recipe--course').innerText = recipe.mealType;
