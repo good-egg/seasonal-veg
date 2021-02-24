@@ -1,0 +1,12 @@
+.food-carousel__input {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    max-width: $element-max-width;
+    cursor: pointer;
+
+    &--btn {
+        height: 1.6rem;
+    }
+}
+

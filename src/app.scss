@@ -7,6 +7,9 @@ $widget-background: #fbf5f0;
 
 $component-background: rgba($primary, 0.025);
 
+$container-max-width: 700px;
+$element-max-width: 350px;
+
 $breakpoint: 48em;
 
 @font-face {
@@ -67,7 +70,7 @@ a:hover {
 .seasonal-veg--container {
   padding: 1rem;
   background-color: $widget-background;
-  max-width: 700px;
+  max-width: $container-max-width;
   margin: auto;
   display: block;
 }
@@ -91,7 +94,7 @@ select {
   margin: auto;
   display: block;
   width: 100%;
-  max-width: 100%;
+  max-width: $element-max-width;
   padding: .6em 2em .6em .6em;
   -ms-text-overflow: '';
   -o-text-overflow: '';
@@ -101,6 +104,7 @@ select {
   background-position: right center;
   background-repeat: no-repeat;
   font-family: inherit;
+  cursor: pointer;
 
   &::-ms-expand {
     display: none;
@@ -226,3 +230,5 @@ img.shadow {
     margin: 0 5%;
   }
 }
+
+@import './components/results/results';
