@@ -1,0 +1,58 @@
+img.food-image {
+    -webkit-animation: float 3s ease-out infinite;
+    -moz-animation: float 3s ease-out infinite;
+    -o-animation: float 3s ease-out infinite;
+    animation: float 3s ease-out infinite;
+    margin: auto auto 2.5em;
+    display: block;
+
+    @media (prefers-reduced-motion: reduce) {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -o-animation: none;
+        animation: none;
+        -webkit-animation: none;
+    }
+}
+
+
+img.shadow {
+    -webkit-animation: shrink 3s ease-out infinite;
+    -moz-animation: shrink 3s ease-out infinite;
+    -o-animation: shrink 3s ease-out infinite;
+    animation: shrink 3s ease-out infinite;
+    transform-origin: center center;
+    width: 100%;
+    transform: translate(2.5px, 0);
+
+    @media (prefers-reduced-motion: reduce) {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -o-animation: none;
+        animation: none;
+        -webkit-animation: none;
+    }
+}
+
+@keyframes float {
+    50% {
+        transform: translate(0, 20px);
+    }
+}
+
+@keyframes shrink {
+    0% {
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    50% {
+        width: 60%;
+        margin: 0 18%;
+    }
+
+    100% {
+        width: 90%;
+        margin: 0 5%;
+    }
+}

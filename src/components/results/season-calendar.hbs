@@ -1,0 +1,31 @@
+<div class="season-calendar--table">
+    <table>
+        <thead>
+            <tr>
+                <th>J</th>
+                <th>F</th>
+                <th>M</th>
+                <th>A</th>
+                <th>M</th>
+                <th>J</th>
+                <th>J</th>
+                <th>A</th>
+                <th>S</th>
+                <th>O</th>
+                <th>N</th>
+                <th>D</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                {{#each (times 12)}}
+                    <td>
+                        <svg class="season-calendar--table_icon" height="20" width="20">
+                            <circle cx="10" cy="10" r="6" stroke="black" stroke-width="1" fill="white" />
+                        </svg>
+                    </td>
+                {{/each}}
+            </tr>
+        </tbody>
+    </table>
+</div>

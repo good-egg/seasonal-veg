@@ -1,0 +1,11 @@
+.recipe {
+    border: 1px solid #bababa;
+
+    &--details {
+        border-top: 1px solid #bababa;
+
+        span {
+            display: block;
+        }
+    }
+}
