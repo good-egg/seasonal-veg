@@ -3,7 +3,7 @@ img.food-image {
     -moz-animation: float 3s ease-out infinite;
     -o-animation: float 3s ease-out infinite;
     animation: float 3s ease-out infinite;
-    margin: auto auto 2.5em;
+    // margin: auto auto 2.5em;
     display: block;
 
     @media (prefers-reduced-motion: reduce) {
@@ -43,16 +43,13 @@ img.shadow {
 @keyframes shrink {
     0% {
         width: 90%;
-        margin: 0 5%;
     }
 
     50% {
         width: 60%;
-        margin: 0 18%;
     }
 
     100% {
         width: 90%;
-        margin: 0 5%;
     }
 }
