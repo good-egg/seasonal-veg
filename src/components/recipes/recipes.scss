@@ -1,0 +1,35 @@
+.recipe {
+    text-align: center;
+    
+    &--details {
+        border-top: 1px solid #bababa;
+
+        span {
+            display: block;
+        }
+    }
+
+    &--navigation {
+        display: flex;
+        flex-direction: row;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+        max-width: $element-max-width;
+
+        .previous {
+            order: 1;
+            flex-shrink: 1;
+        }
+
+        .next {
+            order: 3;
+            flex-shrink: 1;
+        }
+
+        .recipe-counter {
+            order: 2;
+            padding: 1rem 2rem;
+        }
+    }
+}

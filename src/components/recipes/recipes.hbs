@@ -1,0 +1,33 @@
+<h2>Recipes</h2>
+<div class="dropdown-container dropdown-container--diet">
+    <label for="food-select" class="offscreen">Select your diet</label>
+    <select name="food" id="food-select">
+        <option value="all">All diets</option>
+        <option value="veg">Vegetarian</option>
+    </select>
+</div>
+<div class="recipes-container">
+    {{#each (times 5)}}
+    <div class="recipe hide">
+        <img class="recipe--image" src="./assets/img/lazy-load.png">
+        <a href="#" class="recipe--link">
+            <h3 class="recipe--title">Recipe title</h3>
+        </a>
+        <span class="recipe--author">By author</span>
+        <div class="recipe--details">
+            <span class="recipe--course"></span>
+            <span class="recipe--prep"></span>
+            <span class="recipe--cook"></span>
+        </div>
+    </div>
+    {{/each}}
+    <div class="recipe--navigation">
+        <button class="previous previous-recipe button--directional"><span class="off-screen">Previous recipe</span><img
+                src="../../assets/img/icons/left-chevron.svg" alt="previous icon"></button>
+        <button class="next next-recipe button--directional"><span class="off-screen">Next recipe</span><img
+                src="../../assets/img/icons/right-chevron.svg" alt="next icon"></button>
+        <span class="recipe-counter"><span class="recipe-counter__current">1</span>/<span
+                class="recipe-counter__total">10</span></span>
+    </div>
+</div>
+

@@ -1,6 +1,5 @@
 import events from '../../lib/events-emitter';
 import data from '../../assets/data/data.min';
-import recipeData from '../../assets/data/recipe-data';
 
 export default class Results {
     constructor() {
@@ -8,9 +7,6 @@ export default class Results {
         this.calendarTable = document.querySelector('.season-calendar--table');
         this.imageContainer = document.querySelector('.image-container');
         this.selectedImage = this.imageContainer.querySelector('.food-image');
-        this.recipesContainer = document.querySelector('.recipes-container');
-        this.recipeEls = this.recipesContainer.querySelectorAll('.recipe');
-        this.currentRecipe = 0;
 
         this.foodDropdown = document.querySelector('.dropdown-container--food');
         const nextFoodBtn = document.querySelector('.next-food');
@@ -26,17 +22,6 @@ export default class Results {
             if (this.foodSelectedIndex > 1) this.changeFood(false);
         });
 
-        const nextRecipeBtn = document.querySelector('.next-recipe');
-        nextRecipeBtn.addEventListener('click', () => {
-            console.log('click next');
-            if (this.currentRecipe < 4) this.showRecipe(true);
-        });
-        const previousRecipeBtn = document.querySelector('.previous-recipe');
-        previousRecipeBtn.addEventListener('click', () => {
-            console.log('click previous');
-            if (this.currentRecipe > 0) this.showRecipe(false);
-        });
-
         this.colours = {
             season: "#067253",
             available: "#06BF8E",
@@ -48,7 +33,6 @@ export default class Results {
             this.foodSelected = food;
             this.foodSelectedIndex = index;
             this.populateResults();
-            this.populateRecipes();
         });
     }
 
@@ -75,30 +59,5 @@ export default class Results {
         events.emit('food-selected', { food: foodSelected, index: this.foodSelectedIndex });
         // const foodDropdown = document.querySelector(`option[value="${food}"]`);
         // foodDropdown.selected = true;
-    }
-
-    populateRecipes() {
-        const recipes = recipeData[this.foodSelected];
-        recipes.forEach((recipe, i) => {
-            const recipeEl = this.recipeEls[i];
-            recipeEl.querySelector('.recipe--link').href = recipe.link;
-            recipeEl.querySelector('.recipe--image').src = `./assets/img/generated-images/${this.foodSelected}.png`;
-            recipeEl.querySelector('.recipe--title').innerText = recipe.title;
-            recipeEl.querySelector('.recipe--author').innerText = recipe.author;
-            recipeEl.querySelector('.recipe--course').innerText = recipe.mealType;
-            recipeEl.querySelector('.recipe--prep').innerText = recipe.prep;
-            recipeEl.querySelector('.recipe--cook').innerText = recipe.cook;
-            if (i === 0) recipeEl.classList.remove('hide');
-        });
-    }
-
-    showRecipe(next) {
-        console.log('called show recipe');
-        this.currentRecipe = next ? this.currentRecipe + 1 : this.currentRecipe - 1;
-        console.log('current', this.currentRecipe);
-        this.recipeEls.forEach((el, i) => {
-            el.classList.add('hide');
-            if (i === this.currentRecipe) el.classList.remove('hide');
-        });
     }
 }

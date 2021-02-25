@@ -22,10 +22,10 @@ table {
 .food-carousel {
     &__input {
         display: flex;
+        flex-direction: row;
         margin: auto;
         align-items: center;
         max-width: $element-max-width;
-        cursor: pointer;
     }
 
     p {
@@ -36,10 +36,19 @@ table {
         margin: auto;
     }
 
+    .previous {
+        order: 1;
+    }
+
+    .next {
+        order: 3;
+    }
+
     .image-container {
         max-width: 80px;
         height: 150px;
         margin: auto;
+        order: 2;
     }
 }
 
@@ -63,4 +72,3 @@ table {
 }
 
 @import './animations';
-@import './recipes.scss';
