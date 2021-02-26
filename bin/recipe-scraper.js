@@ -11,9 +11,6 @@ const data = {};
 
 async function runTheScripts() {
     await scrapePages();
-    // console.log('reading...');
-    // console.log(fs.readFile(`${__dirname}`));
-    // console.log(fs.readFile(`${__dirname}/../src/app/assets/data/recipe-data-1.json`));
 }
 
 async function scrapePages() {
@@ -59,7 +56,8 @@ async function getRecipes() {
                     mealType: recipe.querySelector('.promo__type__recipe-info').innerText,
                     prep: recipe.querySelector('.promo__recipe-info__prep-time').innerText,
                     cook: recipe.querySelector('.promo__recipe-info').lastElementChild.innerText,
-                    serves: recipe.querySelector('.promo__recipe-info__serving-size')? recipe.querySelector('.promo__recipe-info__serving-size').innerText : false
+                    serves: recipe.querySelector('.promo__recipe-info__serving-size')? recipe.querySelector('.promo__recipe-info__serving-size').innerText : false,
+                    img: recipe.querySelector('img') ? recipe.querySelector('img').dataset.src : false
                 });
             });
         }

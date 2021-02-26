@@ -45,7 +45,7 @@ export default class Recipes {
         recipes.forEach((recipe, i) => {
             const recipeEl = this.recipeEls[i];
             recipeEl.querySelector('.recipe--link').href = recipe.link;
-            recipeEl.querySelector('.recipe--image').src = `./assets/img/generated-images/${this.foodSelected}.png`;
+            recipeEl.querySelector('.recipe--image').src = recipe.img || `./assets/img/generated-images/${this.foodSelected}.png`;
             this.attributes.forEach(attribute => {
                 if (recipe[attribute]) recipeEl.querySelector(`.recipe--${attribute}`).innerText = recipe[attribute];
             });
