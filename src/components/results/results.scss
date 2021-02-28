@@ -1,0 +1,76 @@
+.season-calendar--table {
+    margin: 1rem auto;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+    max-width: 520px;
+}
+
+.season-calendar--key {
+    text-align: left;
+    max-width: 200px;
+    margin: auto;
+    display: block;
+}
+
+.season--icon svg {
+    vertical-align: bottom;
+}
+
+.food-carousel {
+    &__input {
+        display: flex;
+        flex-direction: row;
+        margin: auto;
+        align-items: center;
+        max-width: $element-max-width;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    img {
+        margin: auto;
+    }
+
+    .previous {
+        order: 1;
+    }
+
+    .next {
+        order: 3;
+    }
+
+    .image-container {
+        max-width: 80px;
+        height: 150px;
+        margin: auto;
+        order: 2;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.button--directional {
+    height: 1.8rem;
+    width: 1.8rem;
+    background-color: rgba(0,0,0,0);
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+
+    img {
+        height: 100%;
+        width: 100%;
+
+        &:hover {
+            filter: invert(.5);
+        }
+    }
+
+}
+
+@import './animations';

@@ -2,10 +2,13 @@
 $color1: #006080;
 $color3: #df6b00;
 $primary: #414752;
-$background: #ffd128;
+$background: #fff;
 $widget-background: #fbf5f0;
 
 $component-background: rgba($primary, 0.025);
+
+$container-max-width: 700px;
+$element-max-width: 350px;
 
 $breakpoint: 48em;
 
@@ -36,6 +39,10 @@ body {
     overflow-x: hidden;
 }
 
+#wrapper {
+  min-height: 100vh;
+}
+
 h2 {
     font-size: 2em;
     @media (min-width: $breakpoint) {
@@ -63,101 +70,16 @@ a:hover {
   max-width: 100%;
 }
 
-
 .seasonal-veg--container {
   padding: 1rem;
   background-color: $widget-background;
-  max-width: 700px;
+  max-width: $container-max-width;
   margin: auto;
   display: block;
 }
 
 h1 {
   text-align: center;
-}
-
-label,
-select,
-.key-el {
-  display: block;
-}
-
-label {
-  font-weight: bold;
-}
-
-select {
-  display: block;
-  margin: auto;
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  padding: .6em 2em .6em .6em;
-  -ms-text-overflow: '';
-  -o-text-overflow: '';
-  text-overflow: '';
-  background-color: #fff;
-  background-size: 1.3rem;
-  background-position: right center;
-  background-repeat: no-repeat;
-  font-family: inherit;
-
-  &::-ms-expand {
-    display: none;
-  }
-}
-
-.dropdown-container {
-  margin: 1rem auto;
-}
-
-.season-calendar--table {
-  margin: 1rem auto;
-}
-
-table {
-  margin: auto;
-  text-align: center;
-  max-width: 520px;
-}
-
-.season-calendar--key {
-  text-align: left;
-  max-width: 200px;
-  margin: auto;
-  display: block;
-}
-
-.season--icon svg {
-  vertical-align: bottom;
-}
-
-.food-carousel {
-  p {
-    text-align: center;
-  }
-
-  img {
-    margin: auto;
-  }
-
-  .image-container {
-    max-width: 80px;
-    height: 150px;
-    margin: auto;
-  }
-}
-
-.recipe {
-  border: 1px solid #bababa;
-
-  &--details {
-    border-top: 1px solid #bababa;
-
-    span {
-      display: block;
-    }
-  }
 }
 
 .hide {
@@ -168,61 +90,19 @@ table {
   display: block;
 }
 
-img.food-image {
-  -webkit-animation: float 3s ease-out infinite;
-  -moz-animation: float 3s ease-out infinite;
-  -o-animation: float 3s ease-out infinite;
-  animation: float 3s ease-out infinite;
-  margin: auto auto 2.5em;
-  display: block;
-
-  @media (prefers-reduced-motion: reduce) {
-    -webkit-animation: none;
-    -moz-animation: none;
-    -o-animation: none;
-    animation: none;
-    -webkit-animation: none;
-  }
+.off-screen {
+  position: absolute;
+  left: -400vw;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
-
-img.shadow {
-  -webkit-animation: shrink 3s ease-out infinite;
-  -moz-animation: shrink 3s ease-out infinite;
-  -o-animation: shrink 3s ease-out infinite;
-  animation: shrink 3s ease-out infinite;
-  transform-origin: center center;
+img {
   width: 100%;
-  transform: translate(2.5px, 0);
-
-  @media (prefers-reduced-motion: reduce) {
-    -webkit-animation: none;
-    -moz-animation: none;
-    -o-animation: none;
-    animation: none;
-    -webkit-animation: none;
-  }
 }
 
-@keyframes float {
-  50% {
-    transform: translate(0, 20px);
-  }
-}
-
-@keyframes shrink {
-  0% {
-    width: 90%;
-    margin: 0 5%;
-  }
-
-  50% {
-    width: 60%;
-    margin: 0 18%;
-  }
-
-  100% {
-    width: 90%;
-    margin: 0 5%;
-  }
-}
+@import './components/dropdowns/dropdowns';
+@import './components/results/results';
+@import './components/recipes/recipes';

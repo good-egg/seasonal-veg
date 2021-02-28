@@ -7,17 +7,7 @@
 		<div class="results-container" style="display: none;">
 			{{> results}}
 			<hr />
-			<h2>Recipes</h2>
-			<div class="dropdown-container dropdown-container--diet">
-				<label for="food-select" class="offscreen">Select your diet</label>
-				<select name="food" id="food-select">
-					<option value="all">All diets</option>
-					<option value="veg">Vegetarian</option>
-				</select>
-			</div>
-			<div class="recipes-container">
-				{{>recipes}}
-			</div>
+			{{> recipes}}
 		</div>
 	</div>
 </div>
