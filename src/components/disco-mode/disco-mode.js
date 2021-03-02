@@ -1,5 +1,5 @@
-import events from '../lib/events-emitter';
-import svgs from '../assets/svgs.json';
+import events from '../../lib/events-emitter';
+import svgs from '../../assets/svgs.json';
 
 export default class DiscoMode {
     constructor() {

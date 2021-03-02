@@ -31,8 +31,8 @@ body {
     font-size: 16px;
     font-weight: 400;
     color: $primary;
-    margin: 0.5em;
-    padding: 0 0.5em;
+    margin: 0;
+    padding: 0;
     text-align: center;
     background: $background;
     width: 100%;
@@ -41,6 +41,7 @@ body {
 
 #wrapper {
   min-height: 100vh;
+  margin: 1rem;
 }
 
 h2 {
@@ -107,73 +108,6 @@ img {
 @import './components/results/results';
 @import './components/recipes/recipes';
 @import './components//toggle/toggle';
+@import './components/disco-mode/disco-mode';
 
 
-// disco
-
-.disco-underlay.show {
-  // display: grid;
-  width: 100vw;
-  height: 100vh;
-  z-index: -1;
-  // justify-content: center;
-  // align-content: center;
-  // grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-  // grid-template-rows: repeat(auto-fill, minmax(80px, 1fr));
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(0, 0, 0, 0.25)),
-  linear-gradient(to right bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
-  background-color: pink;
-  animation: disco-colour 4s infinite alternate;
-}
-
-@keyframes disco-colour {
-  0% {
-    background-color: red;
-  }
-
-  25% {
-    background-color: yellow;
-  }
-
-  50% {
-    background-color: blue;
-  }
-
-  75% {
-    background-color: green;
-  }
-
-  100% {
-    background-color: purple;
-  }
-}
-
-.food-image.disco {
-  .arm--left {
-    transform-origin: center;
-    animation: arms-dance 2s infinite alternate-reverse;
-  }
-
-  .arm--right {
-    transform-origin: center;
-    animation: arms-dance 1s infinite alternate;
-  }
-}
-
-@keyframes arms-dance {
-  0% {
-    transform: rotate(0);
-  }
-  50% {
-    transform: rotate(90deg);
-  }
-  75% {
-    transform: rotate(-10deg);
-  }
-  100% {
-    transform: rotate(50deg);
-  }
-}
