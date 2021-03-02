@@ -38,7 +38,7 @@ export default class Results {
 
     populateResults() {
         const foodData = data[this.foodSelected];
-        this.selectedImage.src = `./assets/img/${this.foodSelected}.svg`;
+        this.selectedImage.innerHTML = `<img src="./assets/img/${this.foodSelected}.svg" alt="">`;
         const seasonCircles = document.querySelectorAll('.season-calendar--table_icon');
         const foodSeasonality = Object.entries(foodData).filter(([key, value]) => !key.includes('food'));
         foodSeasonality.forEach(([month, value], i) => {

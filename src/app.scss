@@ -111,14 +111,69 @@ img {
 
 // disco
 
-.disco-underlay {
-  display: grid;
+.disco-underlay.show {
+  // display: grid;
   width: 100vw;
   height: 100vh;
-  justify-content: center;
-  align-content: center;
-  grid-template-columns: repeat(10, 20vmin);
-  grid-template-rows: repeat(10, 20vmin);
+  z-index: -1;
+  // justify-content: center;
+  // align-content: center;
+  // grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  // grid-template-rows: repeat(auto-fill, minmax(80px, 1fr));
   position: absolute;
   top: 0;
+  left: 0;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(0, 0, 0, 0.25)),
+  linear-gradient(to right bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
+  background-color: pink;
+  animation: disco-colour 4s infinite alternate;
+}
+
+@keyframes disco-colour {
+  0% {
+    background-color: red;
+  }
+
+  25% {
+    background-color: yellow;
+  }
+
+  50% {
+    background-color: blue;
+  }
+
+  75% {
+    background-color: green;
+  }
+
+  100% {
+    background-color: purple;
+  }
+}
+
+.food-image.disco {
+  .arm--left {
+    transform-origin: center;
+    animation: arms-dance 2s infinite alternate-reverse;
+  }
+
+  .arm--right {
+    transform-origin: center;
+    animation: arms-dance 1s infinite alternate;
+  }
+}
+
+@keyframes arms-dance {
+  0% {
+    transform: rotate(0);
+  }
+  50% {
+    transform: rotate(90deg);
+  }
+  75% {
+    transform: rotate(-10deg);
+  }
+  100% {
+    transform: rotate(50deg);
+  }
 }
