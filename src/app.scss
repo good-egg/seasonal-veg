@@ -3,7 +3,7 @@ $color1: #006080;
 $color3: #df6b00;
 $primary: #414752;
 $background: #fff;
-$widget-background: #fbf5f0;
+$widget-background: #fafafa;
 
 $component-background: rgba($primary, 0.025);
 
@@ -106,3 +106,19 @@ img {
 @import './components/dropdowns/dropdowns';
 @import './components/results/results';
 @import './components/recipes/recipes';
+@import './components//toggle/toggle';
+
+
+// disco
+
+.disco-underlay {
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: repeat(10, 20vmin);
+  grid-template-rows: repeat(10, 20vmin);
+  position: absolute;
+  top: 0;
+}
