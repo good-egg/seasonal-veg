@@ -34,31 +34,100 @@
 }
 
 .food-image.disco {
+    svg {
+        overflow: visible;
+    }
+
     .arm--left {
         transform-origin: center;
-        animation: arms-dance 2s infinite alternate-reverse;
+        transform: scaleY(-1);
+        animation: arms-dance_left 1s infinite alternate;
     }
 
     .arm--right {
         transform-origin: center;
-        animation: arms-dance 1s infinite alternate;
+        animation: arms-dance_right 1s infinite alternate;
     }
+
+    .body {
+        transform-origin: center;
+        animation: body-dance 1s infinite alternate ease-in-out;
+    }
+
+    .leg {
+        transform-origin: center;
+        animation: leg-dance 1s infinite alternate ease-in-out;
+    }    
 }
 
-@keyframes arms-dance {
+@keyframes arms-dance_right {
     0% {
-        transform: rotate(0);
+        transform: rotate(0) translate(0, 0);
     }
 
-    50% {
-        transform: rotate(90deg);
+    33% {
+        transform: rotate(90deg) translate(-5px, 0);
     }
 
-    75% {
-        transform: rotate(-10deg);
+    66% {
+        transform: rotate(-10deg) translate(0, 0);
     }
 
     100% {
-        transform: rotate(50deg);
+        transform: rotate(50deg) translate(5px, 0);
+    }
+}
+
+@keyframes arms-dance_left {
+    0% {
+        transform: rotate(0) translate(0, 0) scaleY(-1);
+    }
+
+    33% {
+        transform: rotate(90deg) translate(-5px, 0) scaleY(-1);
+    }
+
+    66% {
+        transform: rotate(-10deg) translate(0, 0) scaleY(-1);
+    }
+
+    100% {
+        transform: rotate(50deg) translate(5px, 0) scaleY(-1);
+    }
+}
+
+@keyframes body-dance {
+    0% {
+        transform: translate(0, 0);
+    }
+
+    33% {
+        transform: translate(-5px, 5px);
+    }
+
+    66% {
+        transform: translate(0, 10px);
+    }
+
+    100% {
+        transform: translate(5px, 5px);
+    }
+}
+
+@keyframes leg-dance {
+    0% {
+        transform: translate(0, 0);
+    }
+
+    33% {
+        transform: translate(-2px, 2px);
+    }
+
+    66% {
+        transform: translate(0, 8px);
+    }
+
+    100% {
+        transform: translate(2px, 2px);
     }
 }
