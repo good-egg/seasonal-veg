@@ -83,14 +83,6 @@ h1 {
   text-align: center;
 }
 
-.hide {
-  display: none;
-}
-
-.show {
-  display: block;
-}
-
 .off-screen {
   position: absolute;
   left: -400vw;
@@ -110,4 +102,10 @@ img {
 @import './components//toggle/toggle';
 @import './components/disco-mode/disco-mode';
 
+.hide {
+  display: none;
+}
 
+.show {
+  display: block;
+}

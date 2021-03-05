@@ -6,7 +6,7 @@ export default class Results {
         this.resultsContainer = document.querySelector('.results-container');
         this.calendarTable = document.querySelector('.season-calendar--table');
         this.imageContainer = document.querySelector('.image-container');
-        this.selectedImage = this.imageContainer.querySelector('.food-image');
+        this.selectedImage = this.imageContainer.querySelector('.food-image .food');
 
         this.foodDropdown = document.querySelector('.dropdown-container--food');
         const nextFoodBtn = document.querySelector('.next-food');
@@ -38,7 +38,7 @@ export default class Results {
 
     populateResults() {
         const foodData = data[this.foodSelected];
-        this.selectedImage.innerHTML = `<img src="./assets/img/${this.foodSelected}.svg" alt="">`;
+        this.selectedImage.src = `./assets/img/${this.foodSelected}.svg`;
         const seasonCircles = document.querySelectorAll('.season-calendar--table_icon');
         const foodSeasonality = Object.entries(foodData).filter(([key, value]) => !key.includes('food'));
         foodSeasonality.forEach(([month, value], i) => {

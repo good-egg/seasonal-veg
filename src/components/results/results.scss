@@ -43,15 +43,18 @@ table {
     .next {
         order: 3;
     }
+}
 
-    .image-container {
-        max-width: 80px;
-        height: 150px;
-        margin: auto;
-        order: 2;
-        display: flex;
-        flex-direction: column;
-    }
+.image-container {
+    max-width: 80px;
+    margin: auto;
+    order: 2;
+}
+
+.food-image {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
 }
 
 .button--directional {

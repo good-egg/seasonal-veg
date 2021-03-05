@@ -1,4 +1,4 @@
-.food-image img {
+.food-image .food {
     -webkit-animation: float 3s ease-out infinite;
     -moz-animation: float 3s ease-out infinite;
     -o-animation: float 3s ease-out infinite;
@@ -16,7 +16,7 @@
 }
 
 
-img.shadow {
+.food-image .shadow {
     -webkit-animation: shrink 3s ease-out infinite;
     -moz-animation: shrink 3s ease-out infinite;
     -o-animation: shrink 3s ease-out infinite;
