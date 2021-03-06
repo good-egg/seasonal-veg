@@ -7,6 +7,8 @@ export default class Dropdowns {
         this.monthDropdown = document.querySelector('.dropdown-container--months');
         this.foodDropdown = document.querySelector('.dropdown-container--food');
         this.foodIDs = Object.keys(data);
+        this.init();
+
         this.monthDropdown.addEventListener('change', (evt) => {
             this.monthSelected = evt.target.value;
             this.populateFoodDropdown();
@@ -17,6 +19,11 @@ export default class Dropdowns {
             events.emit('food-selected', { food: this.foodSelected, index });
             this.resultsContainer.style.display = 'block';
         });
+    }
+
+    init() {
+        this.monthSelected = 'all';
+        this.populateFoodDropdown();
     }
 
     populateFoodDropdown() {
