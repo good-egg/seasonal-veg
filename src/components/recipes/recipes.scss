@@ -1,11 +1,45 @@
+.header--recipes {
+    position: relative;
+
+    &:before,
+    &:after {
+        position: absolute;
+        top: 51%;
+        overflow: hidden;
+        width: 30%;
+        height: 2px;
+        content: '\a0';
+        background-color: #000;
+    }
+
+    &:before {
+        margin-left: calc(-30% - 1rem);
+        text-align: right;
+    }
+
+    &:after {
+        margin-left: 1rem;
+    }
+}
+
 .recipe {
     text-align: center;
+
+    &--title {
+        max-width: $element-max-width;
+        margin: 1rem auto;
+        display: block;
+    }
     
     &--details {
         border-top: 1px solid #bababa;
+        margin: 1rem auto;
+        padding-top: 1rem;
+        max-width: $element-max-width;
 
         span {
             display: block;
+            line-height: 1.2rem;
         }
     }
 

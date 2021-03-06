@@ -6,7 +6,7 @@ export default class Recipes {
         this.recipesContainer = document.querySelector('.recipes-container');
         this.recipeEls = this.recipesContainer.querySelectorAll('.recipe');
         this.currentRecipe = 0;
-        this.attributes = ['title', 'author', 'course', 'prep', 'cook'];
+        this.attributes = ['author', 'course', 'prep', 'cook'];
 
         this.recipeCounterCurrent = document.querySelector('.recipe-counter__current');
         this.recipeCounterTotal = document.querySelector('.recipe-counter__total');
@@ -44,6 +44,7 @@ export default class Recipes {
         this.currentRecipe = 0;
         recipes.forEach((recipe, i) => {
             const recipeEl = this.recipeEls[i];
+            recipeEl.querySelector('.recipe--link').innerText = recipe.title;
             recipeEl.querySelector('.recipe--link').href = recipe.link;
             recipeEl.querySelector('.recipe--image').src = recipe.img || `./assets/img/generated-images/${this.foodSelected}.png`;
             this.attributes.forEach(attribute => {
