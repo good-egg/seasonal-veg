@@ -50,7 +50,7 @@ export default class Results {
     populateResults() {
         const foodData = data[this.foodSelected];
         this.selectedImage.src = `./assets/img/${this.foodSelected}.svg`;
-        this.seasonCalendarCTA.innerHTML = this.monthSelected === 'all' ? `Take a look below to see when ${this.formatHighlight(this.foodSelected)} is in season` : `In ${this.formatHighlight(config.months[this.monthSelected])} ${this.formatHighlight(this.foodSelected)} is`;            
+        this.displaySeasonalityText();
         const seasonCircles = document.querySelectorAll('.season-calendar--table_icon');
         const foodSeasonality = Object.entries(foodData).filter(([key, value]) => !key.includes('food'));
         foodSeasonality.forEach(([month, value], i) => {
@@ -60,8 +60,19 @@ export default class Results {
         });
     }
 
+    displaySeasonalityText() {
+        const foodSelectedDisplay = this.getFoodDisplayName(this.foodSelected);
+        const highlightFoodDisplay = this.formatHighlight(foodSelectedDisplay);
+        const isOrAre = foodSelectedDisplay.charAt(foodSelectedDisplay.length - 1) === 's' ? 'are' : 'is'; // needs updating for foods with brackets
+        this.seasonCalendarCTA.innerHTML = this.monthSelected === 'all' ? `Take a look below to see when ${highlightFoodDisplay} ${isOrAre} in season` : `In ${this.formatHighlight(config.months[this.monthSelected])}, ${highlightFoodDisplay} ${isOrAre}`;            
+    }
+
+    getFoodDisplayName(food) {
+        return data[food]['food'];
+    }
+
     formatHighlight(string) {
-        return utils.createHighlightSpan(utils.capitalise(utils.replaceDashWithSpace(string)));
+        return utils.createHighlightSpan(utils.capitalise(string));
     }
 
     changeFood(next) {
