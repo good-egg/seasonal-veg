@@ -12,22 +12,14 @@ $element-max-width: 350px;
 
 $breakpoint: 48em;
 
-@font-face {
-    font-family: acherus;
-    src: url(./assets/font/acherusgrotesque-regular-webfont.woff);
-}
-
-@font-face {
-    font-family: public;
-    src: url(./assets/font/PublicSans-Roman-VF.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap');
 
 * {
     box-sizing: border-box;
 }
 
 body {
-    font-family: 'acherus', verdana, sans-serif;
+    font-family: 'Sen', verdana, sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: $primary;
@@ -88,6 +80,10 @@ h1 {
 
 .show {
   display: block;
+}
+
+.highlight {
+  font-weight: bold;
 }
 
 .off-screen {

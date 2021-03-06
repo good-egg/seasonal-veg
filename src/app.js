@@ -6,9 +6,3 @@ new Dropdowns();
 new Results();
 new Recipes();
 
-enhanceContent();
-
-function enhanceContent() {
-    console.log('Hello!');
-}
-

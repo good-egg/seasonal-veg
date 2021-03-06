@@ -1,5 +1,7 @@
 import events from '../../lib/events-emitter';
 import data from '../../assets/data/data.min';
+import * as utils from '../../utils';
+import config from '../../config';
 
 export default class Results {
     constructor() {
@@ -30,6 +32,7 @@ export default class Results {
         };
 
         this.monthSelected = 'all';
+        this.seasonCalendarCTA = document.querySelector('.season-calendar--cta');
 
         events.on('month-selected', (month) => {
             this.monthSelected = month;
@@ -47,6 +50,7 @@ export default class Results {
     populateResults() {
         const foodData = data[this.foodSelected];
         this.selectedImage.src = `./assets/img/${this.foodSelected}.svg`;
+        this.seasonCalendarCTA.innerHTML = this.monthSelected === 'all' ? `Take a look below to see when ${this.formatHighlight(this.foodSelected)} is in season` : `In ${this.formatHighlight(config.months[this.monthSelected])} ${this.formatHighlight(this.foodSelected)} is`;            
         const seasonCircles = document.querySelectorAll('.season-calendar--table_icon');
         const foodSeasonality = Object.entries(foodData).filter(([key, value]) => !key.includes('food'));
         foodSeasonality.forEach(([month, value], i) => {
@@ -54,6 +58,10 @@ export default class Results {
             seasonCircles[i].querySelector('circle').setAttribute('fill', this.colours[season]);
             if (month === this.monthSelected) document.querySelector(`.key-el--${value} .season-calendar--highlight-circle`).classList.remove('hide');
         });
+    }
+
+    formatHighlight(string) {
+        return utils.createHighlightSpan(utils.capitalise(utils.replaceDashWithSpace(string)));
     }
 
     changeFood(next) {

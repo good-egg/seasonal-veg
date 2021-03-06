@@ -1,5 +1,6 @@
 import data from '../../assets/data/data.min';
 import events from '../../lib/events-emitter';
+import { capitalise } from '../../utils';
 
 export default class Dropdowns {
     constructor() {
@@ -33,7 +34,7 @@ export default class Dropdowns {
         this.foodIDs.forEach((id, i) => {
             const foodType = data[id]['food-type'];
             const previousFoodType = i > 0 ? data[[this.foodIDs[i - 1]]]['food-type'] : foodType;
-            if (i === 0 || foodType !== previousFoodType) markuptoOutput += `<option value="category-${foodType}" disabled>${foodType.charAt(0).toUpperCase() + foodType.slice(1)}</option>`;
+            if (i === 0 || foodType !== previousFoodType) markuptoOutput += `<option value="category-${foodType}" disabled>${capitalise(foodType)}</option>`;
 
             if ((this.monthSelected !== 'all' && data[id][this.monthSelected] !== 0) || this.monthSelected === 'all') {
                 markuptoOutput += `<option value="${id}">${data[id].food}</option>`;
