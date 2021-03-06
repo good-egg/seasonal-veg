@@ -12,6 +12,7 @@ export default class Dropdowns {
         this.monthDropdown.addEventListener('change', (evt) => {
             this.monthSelected = evt.target.value;
             this.populateFoodDropdown();
+            events.emit('month-selected', this.monthSelected);
         });
         this.foodDropdown.addEventListener('change', (evt) => {
             const index = evt.target.selectedIndex;

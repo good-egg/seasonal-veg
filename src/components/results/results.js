@@ -23,15 +23,23 @@ export default class Results {
         });
 
         this.colours = {
-            season: "#067253",
-            available: "#06BF8E",
-            'from-store': "#AAD6C4",
+            season: '#067253',
+            available: '#06BF8E',
+            'from-store': '#AAD6C4',
             none: '#fff',
         };
+
+        this.monthSelected = 'all';
+
+        events.on('month-selected', (month) => {
+            this.monthSelected = month;
+            console.log('month selected', this.monthSelected);
+        });
 
         events.on('food-selected', ({ food, index }) => {
             this.foodSelected = food;
             this.foodSelectedIndex = index;
+            if (document.querySelector('.season-calendar--highlight-circle:not(.hide)')) document.querySelector('.season-calendar--highlight-circle:not(.hide)').classList.add('hide');
             this.populateResults();
         });
     }
@@ -44,6 +52,7 @@ export default class Results {
         foodSeasonality.forEach(([month, value], i) => {
             const season = value !== 0 ? value : 'none';
             seasonCircles[i].querySelector('circle').setAttribute('fill', this.colours[season]);
+            if (month === this.monthSelected) document.querySelector(`.key-el--${value} .season-calendar--highlight-circle`).classList.remove('hide');
         });
     }
 
@@ -57,7 +66,7 @@ export default class Results {
         newFoodOption.selected = true;
         const foodSelected = newFoodOption.value;
         events.emit('food-selected', { food: foodSelected, index: this.foodSelectedIndex });
-        // const foodDropdown = document.querySelector(`option[value="${food}"]`);
+        // const foodDropdown = document.querySelector(`option[value='${food}']`);
         // foodDropdown.selected = true;
     }
 }

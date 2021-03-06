@@ -10,9 +10,22 @@ table {
 
 .season-calendar--key {
     text-align: left;
-    max-width: 200px;
+    max-width: 240px;
     margin: auto;
     display: block;
+}
+
+.key-el {
+    display: block;
+    position: relative;
+}
+
+.season-calendar--highlight-circle {
+    position: absolute;
+    height: 2.5rem;
+    left: -0.5rem;
+    width: 120%;
+    top: -0.5rem;
 }
 
 .season--icon svg {
@@ -70,7 +83,7 @@ table {
             filter: invert(.5);
         }
     }
-
 }
+
 
 @import './animations';
