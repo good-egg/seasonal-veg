@@ -1,6 +1,4 @@
 $white: #fff;
-$color: orange;
-
 $colours: orange, yellow, pink, turquoise;
 
 .disco-underlay {
@@ -10,19 +8,15 @@ $colours: orange, yellow, pink, turquoise;
     position: fixed;
     top: 0;
     bottom: 0;
-    // background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(0, 0, 0, 0.25)),
-    //     linear-gradient(to right bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
-    // background-color: pink;
-    // animation: disco-colour 4s infinite alternate;
 }
 
 .disco-underlay.show {
     // create grid of squares
     --square-size: 50px;
-
     @media (min-width: $breakpoint) {
         --square-size: 120px;
     }
+
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(var(--square-size), 1fr));
 
@@ -45,8 +39,6 @@ $colours: orange, yellow, pink, turquoise;
         }
     }
 }
-
-
 
 @keyframes blink {
     0% {
@@ -72,28 +64,6 @@ $colours: orange, yellow, pink, turquoise;
     100% {
         opacity: 1;
         background-color: $white;
-    }
-}
-
-@keyframes disco-colour {
-    0% {
-        background-color: red;
-    }
-
-    25% {
-        background-color: yellow;
-    }
-
-    50% {
-        background-color: blue;
-    }
-
-    75% {
-        background-color: green;
-    }
-
-    100% {
-        background-color: purple;
     }
 }
 
