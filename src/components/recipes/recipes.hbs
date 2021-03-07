@@ -1,4 +1,4 @@
-<h2>Recipes</h2>
+<h2 class="header header--recipes">Recipes</h2>
 <div class="dropdown-container dropdown-container--diet">
     <label for="food-select" class="offscreen">Select your diet</label>
     <select name="food" id="food-select">
@@ -10,9 +10,7 @@
     {{#each (times 5)}}
     <div class="recipe hide">
         <img class="recipe--image" src="./assets/img/lazy-load.png">
-        <a href="#" class="recipe--link">
-            <h3 class="recipe--title">Recipe title</h3>
-        </a>
+        <h3 class="recipe--title"><a href="#" class="recipe--link">Recipe title</a></h3>
         <span class="recipe--author">By author</span>
         <div class="recipe--details">
             <span class="recipe--course"></span>

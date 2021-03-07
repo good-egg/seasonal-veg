@@ -5,20 +5,34 @@
             <button class="next next-food food-carousel__btn button--directional"><span class="off-screen">Next food</span><img src="./assets/img/icons/right-chevron.svg" alt="next icon"></button>
             <div class="image-container">
                 <img alt="" class="food-image" src="./assets/img/carrots.svg" />
-                <img src="./assets/img/shadow.png" class="shadow">
+                <img class="shadow" src="./assets/img/shadow.png" alt="">
             </div>
         </div>
-        <p>Take a look below to see when I'm in season</p>
+        <p class="season-calendar--cta">Take a look below to see when I'm in season</p>
         <div class="season-calendar--key">
-            <span class="key-el key-el--season"><span class="season--icon"><svg height="20" width="20">
-                <circle cx="10" cy="10" r="6" fill="#067253" />
-            </svg></span>In season</span>
-            <span class="key-el key-el--available"><span class="season--icon"><svg height="20" width="20">
-                <circle cx="10" cy="10" r="6" fill="#06BF8E" />
-            </svg></span>Going in/out of season</span>
-            <span class="key-el key-el--in-store"><span class="season--icon"><svg height="20" width="20">
-                <circle cx="10" cy="10" r="6" fill="#AAD6C4" />
-            </svg></span>Last of seasonal stock</span>
+            <span class="key-el key-el--season">
+                <span class="season--icon">
+                    <svg height="20" width="20">
+                        <circle cx="10" cy="10" r="6" fill="#067253" />
+                    </svg>
+                </span>
+                <img class="season-calendar--highlight-circle hide" src="./assets/img/circle.svg" alt="">
+                In season
+            </span>
+            <span class="key-el key-el--available">
+                <span class="season--icon"><svg height="20" width="20">
+                    <circle cx="10" cy="10" r="6" fill="#06BF8E" />
+                </svg></span>
+                <img class="season-calendar--highlight-circle hide" src="./assets/img/circle.svg" alt="">
+                Going in/out of season
+            </span>
+            <span class="key-el key-el--from-store">
+                <span class="season--icon"><svg height="20" width="20">
+                    <circle cx="10" cy="10" r="6" fill="#AAD6C4" />
+                </svg></span>
+                <img class="season-calendar--highlight-circle hide" src="./assets/img/circle.svg" alt="">
+                Last of seasonal stock
+            </span>
         </div>
         {{>season-calendar}}
     </div>

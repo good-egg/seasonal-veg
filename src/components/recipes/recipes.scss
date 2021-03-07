@@ -1,11 +1,21 @@
 .recipe {
     text-align: center;
+
+    &--title {
+        max-width: $element-max-width;
+        margin: 1rem auto;
+        display: block;
+    }
     
     &--details {
         border-top: 1px solid #bababa;
+        margin: 1rem auto;
+        padding-top: 1rem;
+        max-width: $element-max-width;
 
         span {
             display: block;
+            line-height: 1.2rem;
         }
     }
 
