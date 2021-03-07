@@ -72,9 +72,9 @@ module.exports = {
         new ImageminPlugin({ test: /\.(jpe?g|png|gif|svg)$/i }),
         new HtmlWebpackPlugin({
             template: path.resolve(__dirname, 'index.hbs'),
-            title: 'Seasonal veg'
+            title: 'Seasonal veg',
             // templateParameters: require('./src/portfolio-config.json'),
-            // data: require('./src/portfolio-config.json')
+            config: require('./src/config.json')
         }),
         new MiniCssExtractPlugin({
             filename: '[name].css',

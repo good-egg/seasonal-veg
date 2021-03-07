@@ -1,3 +1,8 @@
+.season-calendar--cta {
+    max-width: $element-max-width;
+    margin-bottom: 0.5rem;
+}
+
 .season-calendar--table {
     margin: 1rem auto;
 }
@@ -10,9 +15,24 @@ table {
 
 .season-calendar--key {
     text-align: left;
-    max-width: 200px;
+    max-width: 240px;
     margin: auto;
     display: block;
+}
+
+.key-el {
+    display: block;
+    position: relative;
+    margin-bottom: 0.25rem;
+}
+
+.season-calendar--highlight-circle {
+    position: absolute;
+    height: 2.25rem;
+    left: -1rem;
+    width: 100%;
+    top: -0.5rem;
+    transform: rotate(2deg);
 }
 
 .season--icon svg {
@@ -73,7 +93,7 @@ table {
             filter: invert(.5);
         }
     }
-
 }
+
 
 @import './animations';

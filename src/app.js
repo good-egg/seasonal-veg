@@ -10,9 +10,3 @@ new Recipes();
 new Toggle('.switch--disco-toggle');
 new DiscoMode();
 
-enhanceContent();
-
-function enhanceContent() {
-    console.log('Hello!');
-}
-

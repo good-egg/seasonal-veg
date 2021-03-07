@@ -1,5 +1,6 @@
 import data from '../../assets/data/data.min';
 import events from '../../lib/events-emitter';
+import { capitalise } from '../../utils';
 
 export default class Dropdowns {
     constructor() {
@@ -7,9 +8,12 @@ export default class Dropdowns {
         this.monthDropdown = document.querySelector('.dropdown-container--months');
         this.foodDropdown = document.querySelector('.dropdown-container--food');
         this.foodIDs = Object.keys(data);
+        this.init();
+
         this.monthDropdown.addEventListener('change', (evt) => {
             this.monthSelected = evt.target.value;
             this.populateFoodDropdown();
+            events.emit('month-selected', this.monthSelected);
         });
         this.foodDropdown.addEventListener('change', (evt) => {
             const index = evt.target.selectedIndex;
@@ -19,13 +23,18 @@ export default class Dropdowns {
         });
     }
 
+    init() {
+        this.monthSelected = 'all';
+        this.populateFoodDropdown();
+    }
+
     populateFoodDropdown() {
         const foodSelect = document.querySelector('#food-select');
         let markuptoOutput = '<option value="" selected="selected" disabled hidden=true>--Please choose an option--</option>';
         this.foodIDs.forEach((id, i) => {
             const foodType = data[id]['food-type'];
             const previousFoodType = i > 0 ? data[[this.foodIDs[i - 1]]]['food-type'] : foodType;
-            if (i === 0 || foodType !== previousFoodType) markuptoOutput += `<option value="category-${foodType}" disabled>${foodType.charAt(0).toUpperCase() + foodType.slice(1)}</option>`;
+            if (i === 0 || foodType !== previousFoodType) markuptoOutput += `<option value="category-${foodType}" disabled>${capitalise(foodType)}</option>`;
 
             if ((this.monthSelected !== 'all' && data[id][this.monthSelected] !== 0) || this.monthSelected === 'all') {
                 markuptoOutput += `<option value="${id}">${data[id].food}</option>`;
