@@ -13,13 +13,11 @@ export default class Results {
         this.foodDropdown = document.querySelector('.dropdown-container--food');
         const nextFoodBtn = document.querySelector('.next-food');
         nextFoodBtn.addEventListener('click', () => {
-            console.log('click next');
             this.availableFoods = Array.from(this.foodDropdown.querySelectorAll('option'));
             if (this.foodSelectedIndex < this.availableFoods.length - 1) this.changeFood(true);
         });
         const previousFoodBtn = document.querySelector('.previous-food');
         previousFoodBtn.addEventListener('click', () => {
-            console.log('click previous');
             this.availableFoods = Array.from(this.foodDropdown.querySelectorAll('option'));
             if (this.foodSelectedIndex > 1) this.changeFood(false);
         });
@@ -36,7 +34,6 @@ export default class Results {
 
         events.on('month-selected', (month) => {
             this.monthSelected = month;
-            console.log('month selected', this.monthSelected);
         });
 
         events.on('food-selected', ({ food, index }) => {
@@ -64,29 +61,28 @@ export default class Results {
         const foodSelectedDisplay = this.getFoodDisplayName(this.foodSelected);
         const highlightFoodDisplay = this.formatHighlight(foodSelectedDisplay);
         const isOrAre = this.isOrAreCheck(foodSelectedDisplay);
-        this.seasonCalendarCTA.innerHTML = this.monthSelected === 'all' ? `Take a look below to see when ${highlightFoodDisplay} ${isOrAre} in season` : `In ${this.formatHighlight(config.months[this.monthSelected])}, ${highlightFoodDisplay} ${isOrAre}`;            
+        let outputSentence = `Take a look below to see when ${highlightFoodDisplay} ${isOrAre} in season`;
+        if (this.monthSelected !== 'all') outputSentence = `In ${this.formatHighlight(config.months[this.monthSelected])}, ${highlightFoodDisplay} ${isOrAre}`;
+        this.seasonCalendarCTA.innerHTML = outputSentence;            
     }
-
-    isOrAreCheck(string) {
-        let output;
-        const isOneWord = string.includes(' ') ? false : true;
-        const endsInS = (str) => output = str.charAt(str.length - 1) === 's' ? 'are' : 'is';
-        if (!isOneWord && string.includes('(')) endsInS(string.split(' ')[0]);
-        else endsInS(string);
-        return output;
-    }
-
+    
     getFoodDisplayName(food) {
         return data[food]['food'];
     }
-
+    
     formatHighlight(string) {
         return utils.createHighlightSpan(utils.capitalise(string));
     }
 
+    isOrAreCheck(string) {
+        const isOneWord = string.includes(' ') ? false : true;
+        const endsInS = (str) => str.charAt(str.length - 1) === 's' ? 'are' : 'is';
+        return (!isOneWord && string.includes('(')) ? endsInS(string.split(' ')[0]) : endsInS(string);
+    }
+    
     changeFood(next) {
         this.foodSelectedIndex = next ? this.foodSelectedIndex + 1 : this.foodSelectedIndex - 1;
-        // check if previous/next option is a category -> if so, jump another index (unless at the end)
+        // TODO: check if previous/next option is a category -> if so, jump another index (unless at the end)
         const newFoodOption = this.availableFoods[this.foodSelectedIndex];
         newFoodOption.selected = true;
         const foodSelected = newFoodOption.value;
