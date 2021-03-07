@@ -39,7 +39,7 @@ export default class Results {
         events.on('food-selected', ({ food, index }) => {
             this.foodSelected = food;
             this.foodSelectedIndex = index;
-            if (document.querySelector('.season-calendar--highlight-circle:not(.hide)')) document.querySelector('.season-calendar--highlight-circle:not(.hide)').classList.add('hide');
+            this.hideSeasonalityCircleHighlight();
             this.populateResults();
         });
     }
@@ -64,6 +64,10 @@ export default class Results {
         let outputSentence = `Take a look below to see when ${highlightFoodDisplay} ${isOrAre} in season`;
         if (this.monthSelected !== 'all') outputSentence = `In ${this.formatHighlight(config.months[this.monthSelected])}, ${highlightFoodDisplay} ${isOrAre}`;
         this.seasonCalendarCTA.innerHTML = outputSentence;            
+    }
+
+    hideSeasonalityCircleHighlight() {
+        if (document.querySelector('.season-calendar--highlight-circle:not(.hide)')) document.querySelector('.season-calendar--highlight-circle:not(.hide)').classList.add('hide');
     }
     
     getFoodDisplayName(food) {

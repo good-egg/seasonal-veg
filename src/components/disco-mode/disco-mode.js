@@ -15,7 +15,7 @@ export default class DiscoMode {
         });
 
         events.on('food-selected', ({ food }) => {
-            this.foodSelected = food;
+            this.foodSelected = 'aubergine';
         });
     }
 
