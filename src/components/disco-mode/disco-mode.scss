@@ -1,14 +1,78 @@
-.disco-underlay.show {
+$white: #fff;
+$color: orange;
+
+$colours: orange, yellow, pink, turquoise;
+
+.disco-underlay {
     width: 100vw;
     height: 100vh;
     z-index: -1;
     position: fixed;
     top: 0;
     bottom: 0;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(0, 0, 0, 0.25)),
-        linear-gradient(to right bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
-    background-color: pink;
-    animation: disco-colour 4s infinite alternate;
+    // background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.15), rgba(0, 0, 0, 0.25)),
+    //     linear-gradient(to right bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
+    // background-color: pink;
+    // animation: disco-colour 4s infinite alternate;
+}
+
+.disco-underlay.show {
+    // create grid of squares
+    --square-size: 50px;
+
+    @media (min-width: $breakpoint) {
+        --square-size: 120px;
+    }
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--square-size), 1fr));
+
+    // animate
+    .disco-underlay--cell {
+        aspect-ratio: 1 / 1;
+        height: 0;
+        padding-bottom: 100%;
+        background-color: $white;
+        opacity: 1;
+        box-sizing: border-box;
+        animation: blink ease infinite;
+    }
+
+    @for $i from 1 through 100 {
+        .disco-underlay--cell:nth-child(#{$i}) {
+            animation-delay: #{(random(50) / 10) - 1}s;
+            animation-duration: #{random(15)}s;
+            --color: #{nth($colours, random(4))};
+        }
+    }
+}
+
+
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+        background-color: $white;
+    }
+
+    30% {
+        opacity: 1;
+        background-color: $white;
+    }
+
+    50% {
+        opacity: 0.5;
+        background-color: var(--color);
+    }
+
+    70% {
+        opacity: 1;
+        background-color: $white;
+    }
+
+    100% {
+        opacity: 1;
+        background-color: $white;
+    }
 }
 
 @keyframes disco-colour {
