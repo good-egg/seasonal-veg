@@ -79,8 +79,9 @@ export default class Results {
     }
 
     isOrAreCheck(string) {
+        const nonPluralWordsEndingInS = ['asparagus', 'watercress']
         const isOneWord = string.includes(' ') ? false : true;
-        const endsInS = (str) => str.charAt(str.length - 1) === 's' ? 'are' : 'is';
+        const endsInS = (str) => str.charAt(str.length - 1) === 's' && !nonPluralWordsEndingInS.includes(str.toLowerCase()) ? 'are' : 'is';
         return (!isOneWord && string.includes('(')) ? endsInS(string.split(' ')[0]) : endsInS(string);
     }
     
