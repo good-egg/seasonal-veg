@@ -5,11 +5,12 @@ select {
 
 label {
     font-weight: bold;
+    margin-bottom: 0.5rem;
 }
 
 select {
     display: block;
-    margin: auto;
+    margin: auto auto 1.5rem;
     display: block;
     width: 100%;
     max-width: $element-max-width;
