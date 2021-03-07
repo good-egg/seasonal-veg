@@ -63,8 +63,17 @@ export default class Results {
     displaySeasonalityText() {
         const foodSelectedDisplay = this.getFoodDisplayName(this.foodSelected);
         const highlightFoodDisplay = this.formatHighlight(foodSelectedDisplay);
-        const isOrAre = foodSelectedDisplay.charAt(foodSelectedDisplay.length - 1) === 's' ? 'are' : 'is'; // needs updating for foods with brackets
+        const isOrAre = this.isOrAreCheck(foodSelectedDisplay);
         this.seasonCalendarCTA.innerHTML = this.monthSelected === 'all' ? `Take a look below to see when ${highlightFoodDisplay} ${isOrAre} in season` : `In ${this.formatHighlight(config.months[this.monthSelected])}, ${highlightFoodDisplay} ${isOrAre}`;            
+    }
+
+    isOrAreCheck(string) {
+        let output;
+        const isOneWord = string.includes(' ') ? false : true;
+        const endsInS = (str) => output = str.charAt(str.length - 1) === 's' ? 'are' : 'is';
+        if (!isOneWord && string.includes('(')) endsInS(string.split(' ')[0]);
+        else endsInS(string);
+        return output;
     }
 
     getFoodDisplayName(food) {
@@ -76,16 +85,11 @@ export default class Results {
     }
 
     changeFood(next) {
-        console.log('update food!');
         this.foodSelectedIndex = next ? this.foodSelectedIndex + 1 : this.foodSelectedIndex - 1;
         // check if previous/next option is a category -> if so, jump another index (unless at the end)
-
         const newFoodOption = this.availableFoods[this.foodSelectedIndex];
-        console.log('new food opt', newFoodOption);
         newFoodOption.selected = true;
         const foodSelected = newFoodOption.value;
         events.emit('food-selected', { food: foodSelected, index: this.foodSelectedIndex });
-        // const foodDropdown = document.querySelector(`option[value='${food}']`);
-        // foodDropdown.selected = true;
     }
 }
