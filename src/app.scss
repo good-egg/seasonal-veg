@@ -35,10 +35,19 @@ body {
   min-height: 100vh;
 }
 
+h1 {
+  font-size: 1.6rem;
+  text-align: center;
+
+  @media (min-width: $breakpoint) {
+    font-size: 1.875rem;
+  }
+}
+
 h2 {
-    font-size: 2em;
+    font-size: 1.5rem;
     @media (min-width: $breakpoint) {
-        font-size: 3em;
+        font-size: 1.75rem;
     }
 }
 
@@ -70,10 +79,6 @@ a:hover {
   display: block;
 }
 
-h1 {
-  text-align: center;
-}
-
 .hide {
   display: none;
 }
@@ -97,6 +102,42 @@ h1 {
 
 img {
   width: 100%;
+}
+
+.header {
+  position: relative;
+  --text-width: 220px;
+  --buffer: 1rem;
+
+  @media (min-width: $breakpoint) {
+    --text-width: 260px;
+    --buffer: 2rem;
+  }
+
+  &--recipes {
+    --text-width: 90px;
+
+      @media (min-width: $breakpoint) {
+        --text-width: 105px;
+      }
+  }
+
+  &:before,
+  &:after {
+    position: absolute;
+    top: 51%;
+    overflow: hidden;
+    width: calc(50% - ((var(--text-width) / 2) + var(--buffer)));
+    height: 2px;
+    content: '\a0';
+    background-color: #000;
+    left: 0.5rem;
+  }
+
+  &:after {
+    right: 0.5rem;
+    left: unset;
+  }
 }
 
 @import './components/dropdowns/dropdowns';
