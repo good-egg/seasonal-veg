@@ -1,40 +1,50 @@
+.toggle {
+    position: relative;
+    text-align: right;
+    margin-bottom: 0.5rem;
+}
+
+@mixin discoball {
+    background: url('assets/img/icons/disco-with-border.svg') no-repeat center center;
+    background-size: 1.25rem;
+}
+
 button.switch {
     margin: 0;
     padding: 0;
-    width: 70px;
-    height: 26px;
-    border: 2px solid black;
+    width: 47px;
+    height: 1.25rem;
+    border: none;
+    border-radius: 1.25rem;
+    background-color: #C6C6C6;
     display: inline-block;
     margin-right: 0.25em;
     line-height: 20px;
     vertical-align: middle;
     text-align: center;
     font: 12px "Open Sans", "Arial", serif;
+    cursor: pointer;
 }
 
 button.switch span {
-    padding: 0 4px;
+    padding: 0.25rem;
     pointer-events: none;
 }
 
 [role="switch"][aria-checked="false"] :first-child,
 [role="switch"][aria-checked="true"] :last-child {
-    background: #262;
-    color: #eef;
+    @include discoball();
+    color: #222;
 }
 
 [role="switch"][aria-checked="false"] :last-child,
 [role="switch"][aria-checked="true"] :first-child {
-    color: #bbd;
+    color: #999;
 }
 
 label.switch {
-    font: 16px "Open Sans", "Arial", sans-serif;
-    line-height: 20px;
-    user-select: none;
-    vertical-align: middle;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    -o-user-select: none;
+    display: inline-block;
+    pointer-events: none;
+    line-height: 1.25rem;
+    vertical-align: -webkit-baseline-middle;
 }

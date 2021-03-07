@@ -9,6 +9,7 @@ const dirs = readdirSync(source).map(name => path.join(source, name)).filter(isD
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const debug = process.env.NODE_ENV !== "production";
+const svgToMiniDataURI = require('mini-svg-data-uri');
 const ImageminPlugin = require('imagemin-webpack-plugin').default;
 
 module.exports = {
@@ -52,6 +53,7 @@ module.exports = {
                 use: [
                     MiniCssExtractPlugin.loader,
                     "css-loader",
+                    "resolve-url-loader",
                     "sass-loader"
                 ]
             },
@@ -60,7 +62,16 @@ module.exports = {
                  use: [
                      'file-loader'
                  ]
-            }
+            },
+            {
+                test: /\.svg$/i,
+                use: [{
+                    loader: 'url-loader',
+                    options: {
+                        generator: (content) => svgToMiniDataURI(content.toString()),
+                    }
+                }]
+            },
        ],
     },
     plugins: [
