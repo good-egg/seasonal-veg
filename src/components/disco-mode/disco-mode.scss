@@ -1,6 +1,10 @@
 $white: #fff;
 $colours: orange, yellow, pink, turquoise;
 
+.seasonal-veg--container.disco-mode {
+    background-color: rgba($widget-background, 0.7);
+}
+
 .disco-underlay {
     width: 100vw;
     height: 100vh;
@@ -91,7 +95,12 @@ $colours: orange, yellow, pink, turquoise;
     .leg {
         transform-origin: center;
         animation: leg-dance 1s infinite alternate ease-in-out;
-    }    
+    }
+
+    .disco-music {
+        margin-left: calc(-50% - 20px);
+        display: block;
+    }
 }
 
 @keyframes arms-dance_right {

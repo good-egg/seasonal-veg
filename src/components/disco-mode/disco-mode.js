@@ -5,7 +5,9 @@ export default class DiscoMode {
     constructor() {
         this.discoModeEnabled = false;
         this.foodImageEl = document.querySelector('.food-image');
-        this.discoFood = document.querySelector('.food-image--disco-mode');
+        this.disco = document.querySelector('.food-image--disco-mode');
+        this.discoFood = this.disco.querySelector('.food-container');
+        this.interactiveContainer = document.querySelector('.seasonal-veg--container');
         this.foodSelected = 'aubergine';
 
         events.on('disco mode', (discoModeEnabled) => {
@@ -15,20 +17,21 @@ export default class DiscoMode {
         });
 
         events.on('food-selected', ({ food }) => {
-            this.foodSelected = 'aubergine';
+            this.foodSelected = svgs[food] ? food : 'aubergine';
         });
     }
 
     enable() {
         this.foodImageEl.classList.add('hide');
         this.discoFood.innerHTML = svgs[this.foodSelected];
-        this.discoFood.classList.remove('hide');
-        // this.foodImageEl.classList.add('disco');
+        this.disco.classList.remove('hide');
+        this.interactiveContainer.classList.add('disco-mode');
     }
 
     disable() {
         console.log('this.foodImage', this.foodImage);
         this.foodImageEl.classList.remove('hide');
-        this.discoFood.classList.add('hide');
+        this.disco.classList.add('hide');
+        this.interactiveContainer.classList.remove('disco-mode');
     }
 }
